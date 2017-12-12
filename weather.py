@@ -34,9 +34,9 @@ class Handling:
 
         self.wx = {}
         for wl in self.session.query(W.WeatherData):
-            if self.wl.variable not in wx.keys():
-                self.wx[variable] = {}
-            self.wx[variable][wl.time] = wl.value
+            if wl.variable not in self.wx.keys():
+                self.wx[wl.variable] = {}
+            self.wx[wl.variable][wl.time] = wl.value
 
     def get_weather(self):
         if self.wx is None:
@@ -47,7 +47,7 @@ class Handling:
         if self.wx is None:
             self.read_weather_table()
         for k, v in self.wx.iteritems():
-            with open(d + '.txt', 'w') as f:
+            with open(k + '.txt', 'w') as f:
                 times = sorted(v.keys())
                 for t in times:
                     s = '{}\t{}\n'.format(t, v[t])
