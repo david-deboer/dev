@@ -12,6 +12,17 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
+def plot(w='all'):
+    weather_handling = Handling()
+    weather_handling.plot_weather(w)
+
+
+def data(w):
+    weather_handling = Handling()
+    x, y = weather_handling.data(w)
+    return x, y
+
+
 class Handling:
     wx_list = ['humidity', 'pressure', 'rain', 'temperature', 'wind_direction', 'wind_speed', 'wind_gust']
 
@@ -20,6 +31,12 @@ class Handling:
         This is a class to take various actions with the weather data in the database.
         """
         self.wx = None
+
+    def data(self, wvar):
+        data = np.loadtxt(wvar + '.txt')
+        aptimes = Time(data[:, 0], format='gps').datetime
+        w = data[:, 1]
+        return aptimes, w
 
     def plot_weather(self, wx='all'):
         if isinstance(wx, str):
