@@ -10538,3 +10538,833 @@
 --other
 	log_dict:  {'hu-list': 'HH', 'force_new': 'False', 'check_hookup': 'True'}
 
+-------------------2018-02-10 01:09:27.226898  part_connect part update-------------------
+
+--data
+	    RI3B8E:A  ['RI3B8E', 'A', 'hpn', 'RI3B8E'];  ['RI3B8E', 'A', 'hpn_rev', 'A'];  ['RI3B8E', 'A', 'hptype', 'cable-post-amp(in)'];  ['RI3B8E', 'A', 'manufacturer_number', 'RI3B7E'];  ['RI3B8E', 'A', 'start_gpstime', 1190887218];  
+
+-------------------2018-02-10 01:09:29.044526  part_connect part update-------------------
+
+--data
+	    RI3B8N:A  ['RI3B8N', 'A', 'hpn', 'RI3B8N'];  ['RI3B8N', 'A', 'hpn_rev', 'A'];  ['RI3B8N', 'A', 'hptype', 'cable-post-amp(in)'];  ['RI3B8N', 'A', 'manufacturer_number', 'RI3B7N'];  ['RI3B8N', 'A', 'start_gpstime', 1190887218];  
+
+-------------------2018-02-10 01:09:30.813883  part_connect part update-------------------
+
+--data
+	    PAM75132:B  ['PAM75132', 'B', 'hpn', 'PAM75132'];  ['PAM75132', 'B', 'hpn_rev', 'B'];  ['PAM75132', 'B', 'hptype', 'post-amp'];  ['PAM75132', 'B', 'manufacturer_number', '75132'];  ['PAM75132', 'B', 'start_gpstime', 1190887218];  
+
+-------------------2018-02-10 01:09:32.618757  part_connect part update-------------------
+
+--data
+	    RO3B8E:A  ['RO3B8E', 'A', 'hpn', 'RO3B8E'];  ['RO3B8E', 'A', 'hpn_rev', 'A'];  ['RO3B8E', 'A', 'hptype', 'cable-post-amp(out)'];  ['RO3B8E', 'A', 'manufacturer_number', 'RO3B7E'];  ['RO3B8E', 'A', 'start_gpstime', 1190887218];  
+
+-------------------2018-02-10 01:09:34.441353  part_connect part update-------------------
+
+--data
+	    RO3B8N:A  ['RO3B8N', 'A', 'hpn', 'RO3B8N'];  ['RO3B8N', 'A', 'hpn_rev', 'A'];  ['RO3B8N', 'A', 'hptype', 'cable-post-amp(out)'];  ['RO3B8N', 'A', 'manufacturer_number', 'RO3B7N'];  ['RO3B8N', 'A', 'start_gpstime', 1190887218];  
+
+-------------------2018-02-10 01:09:36.242026  part_connect part update-------------------
+
+--data
+	    CR3B8E:A  ['CR3B8E', 'A', 'hpn', 'CR3B8E'];  ['CR3B8E', 'A', 'hpn_rev', 'A'];  ['CR3B8E', 'A', 'hptype', 'cable-receiverator'];  ['CR3B8E', 'A', 'manufacturer_number', 'CBLR3B7E'];  ['CR3B8E', 'A', 'start_gpstime', 1190887218];  
+
+-------------------2018-02-10 01:09:38.061124  part_connect part update-------------------
+
+--data
+	    CR3B8N:A  ['CR3B8N', 'A', 'hpn', 'CR3B8N'];  ['CR3B8N', 'A', 'hpn_rev', 'A'];  ['CR3B8N', 'A', 'hptype', 'cable-receiverator'];  ['CR3B8N', 'A', 'manufacturer_number', 'CBLR3B7N'];  ['CR3B8N', 'A', 'start_gpstime', 1190887218];  
+
+-------------------2018-02-10 01:09:39.861896  part_connect part update-------------------
+
+--data
+	    DF1C4:A  ['DF1C4', 'A', 'hpn', 'DF1C4'];  ['DF1C4', 'A', 'hpn_rev', 'A'];  ['DF1C4', 'A', 'hptype', 'f-engine'];  ['DF1C4', 'A', 'manufacturer_number', 'PF1C4'];  ['DF1C4', 'A', 'start_gpstime', 1190887218];  
+
+-------------------2018-02-10 01:09:41.627050  part_connect part update-------------------
+
+--data
+	    DF1C3:A  ['DF1C3', 'A', 'hpn', 'DF1C3'];  ['DF1C3', 'A', 'hpn_rev', 'A'];  ['DF1C3', 'A', 'hptype', 'f-engine'];  ['DF1C3', 'A', 'manufacturer_number', 'PF1C3'];  ['DF1C3', 'A', 'start_gpstime', 1190887218];  
+
+-------------------2018-02-10 01:09:43.518716  part_connect connection update-------------------
+
+--data
+	    RI3B8E:PAM75132:b:ea  ['RI3B8E', 'A', 'PAM75132', 'B', 'b', 'ea', 1190887218, 'upstream_part', 'RI3B8E'];  ['RI3B8E', 'A', 'PAM75132', 'B', 'b', 'ea', 1190887218, 'up_part_rev', 'A'];  ['RI3B8E', 'A', 'PAM75132', 'B', 'b', 'ea', 1190887218, 'downstream_part', 'PAM75132'];  ['RI3B8E', 'A', 'PAM75132', 'B', 'b', 'ea', 1190887218, 'down_part_rev', 'B'];  ['RI3B8E', 'A', 'PAM75132', 'B', 'b', 'ea', 1190887218, 'upstream_output_port', 'b'];  ['RI3B8E', 'A', 'PAM75132', 'B', 'b', 'ea', 1190887218, 'downstream_input_port', 'ea'];  ['RI3B8E', 'A', 'PAM75132', 'B', 'b', 'ea', 1190887218, 'start_gpstime', 1190887218];  
+
+-------------------2018-02-10 01:09:45.337967  part_connect connection update-------------------
+
+--data
+	    RI3B8N:PAM75132:b:na  ['RI3B8N', 'A', 'PAM75132', 'B', 'b', 'na', 1190887218, 'upstream_part', 'RI3B8N'];  ['RI3B8N', 'A', 'PAM75132', 'B', 'b', 'na', 1190887218, 'up_part_rev', 'A'];  ['RI3B8N', 'A', 'PAM75132', 'B', 'b', 'na', 1190887218, 'downstream_part', 'PAM75132'];  ['RI3B8N', 'A', 'PAM75132', 'B', 'b', 'na', 1190887218, 'down_part_rev', 'B'];  ['RI3B8N', 'A', 'PAM75132', 'B', 'b', 'na', 1190887218, 'upstream_output_port', 'b'];  ['RI3B8N', 'A', 'PAM75132', 'B', 'b', 'na', 1190887218, 'downstream_input_port', 'na'];  ['RI3B8N', 'A', 'PAM75132', 'B', 'b', 'na', 1190887218, 'start_gpstime', 1190887218];  
+
+-------------------2018-02-10 01:09:47.189944  part_connect connection update-------------------
+
+--data
+	    PAM75132:RO3B8E:eb:a  ['PAM75132', 'B', 'RO3B8E', 'A', 'eb', 'a', 1190887218, 'upstream_part', 'PAM75132'];  ['PAM75132', 'B', 'RO3B8E', 'A', 'eb', 'a', 1190887218, 'up_part_rev', 'B'];  ['PAM75132', 'B', 'RO3B8E', 'A', 'eb', 'a', 1190887218, 'downstream_part', 'RO3B8E'];  ['PAM75132', 'B', 'RO3B8E', 'A', 'eb', 'a', 1190887218, 'down_part_rev', 'A'];  ['PAM75132', 'B', 'RO3B8E', 'A', 'eb', 'a', 1190887218, 'upstream_output_port', 'eb'];  ['PAM75132', 'B', 'RO3B8E', 'A', 'eb', 'a', 1190887218, 'downstream_input_port', 'a'];  ['PAM75132', 'B', 'RO3B8E', 'A', 'eb', 'a', 1190887218, 'start_gpstime', 1190887218];  
+
+-------------------2018-02-10 01:09:49.006726  part_connect connection update-------------------
+
+--data
+	    PAM75132:RO3B8N:nb:a  ['PAM75132', 'B', 'RO3B8N', 'A', 'nb', 'a', 1190887218, 'upstream_part', 'PAM75132'];  ['PAM75132', 'B', 'RO3B8N', 'A', 'nb', 'a', 1190887218, 'up_part_rev', 'B'];  ['PAM75132', 'B', 'RO3B8N', 'A', 'nb', 'a', 1190887218, 'downstream_part', 'RO3B8N'];  ['PAM75132', 'B', 'RO3B8N', 'A', 'nb', 'a', 1190887218, 'down_part_rev', 'A'];  ['PAM75132', 'B', 'RO3B8N', 'A', 'nb', 'a', 1190887218, 'upstream_output_port', 'nb'];  ['PAM75132', 'B', 'RO3B8N', 'A', 'nb', 'a', 1190887218, 'downstream_input_port', 'a'];  ['PAM75132', 'B', 'RO3B8N', 'A', 'nb', 'a', 1190887218, 'start_gpstime', 1190887218];  
+
+-------------------2018-02-10 01:09:50.807109  part_connect connection update-------------------
+
+--data
+	    RO3B8E:CR3B8E:b:a  ['RO3B8E', 'A', 'CR3B8E', 'A', 'b', 'a', 1190887218, 'upstream_part', 'RO3B8E'];  ['RO3B8E', 'A', 'CR3B8E', 'A', 'b', 'a', 1190887218, 'up_part_rev', 'A'];  ['RO3B8E', 'A', 'CR3B8E', 'A', 'b', 'a', 1190887218, 'downstream_part', 'CR3B8E'];  ['RO3B8E', 'A', 'CR3B8E', 'A', 'b', 'a', 1190887218, 'down_part_rev', 'A'];  ['RO3B8E', 'A', 'CR3B8E', 'A', 'b', 'a', 1190887218, 'upstream_output_port', 'b'];  ['RO3B8E', 'A', 'CR3B8E', 'A', 'b', 'a', 1190887218, 'downstream_input_port', 'a'];  ['RO3B8E', 'A', 'CR3B8E', 'A', 'b', 'a', 1190887218, 'start_gpstime', 1190887218];  
+
+-------------------2018-02-10 01:09:52.631942  part_connect connection update-------------------
+
+--data
+	    RO3B8N:CR3B8N:b:a  ['RO3B8N', 'A', 'CR3B8N', 'A', 'b', 'a', 1190887218, 'upstream_part', 'RO3B8N'];  ['RO3B8N', 'A', 'CR3B8N', 'A', 'b', 'a', 1190887218, 'up_part_rev', 'A'];  ['RO3B8N', 'A', 'CR3B8N', 'A', 'b', 'a', 1190887218, 'downstream_part', 'CR3B8N'];  ['RO3B8N', 'A', 'CR3B8N', 'A', 'b', 'a', 1190887218, 'down_part_rev', 'A'];  ['RO3B8N', 'A', 'CR3B8N', 'A', 'b', 'a', 1190887218, 'upstream_output_port', 'b'];  ['RO3B8N', 'A', 'CR3B8N', 'A', 'b', 'a', 1190887218, 'downstream_input_port', 'a'];  ['RO3B8N', 'A', 'CR3B8N', 'A', 'b', 'a', 1190887218, 'start_gpstime', 1190887218];  
+
+-------------------2018-02-10 01:10:01.819511  part_connect part update-------------------
+
+--data
+	    FEM75052:A  ['FEM75052', 'A', 'hpn', 'FEM75052'];  ['FEM75052', 'A', 'hpn_rev', 'A'];  ['FEM75052', 'A', 'hptype', 'front-end'];  ['FEM75052', 'A', 'manufacturer_number', '75052'];  ['FEM75052', 'A', 'start_gpstime', 1195466418];  
+
+-------------------2018-02-10 01:10:03.629153  part_connect part update-------------------
+
+--data
+	    FEM75051:A  ['FEM75051', 'A', 'hpn', 'FEM75051'];  ['FEM75051', 'A', 'hpn_rev', 'A'];  ['FEM75051', 'A', 'hptype', 'front-end'];  ['FEM75051', 'A', 'manufacturer_number', '75051'];  ['FEM75051', 'A', 'start_gpstime', 1195466418];  
+
+-------------------2018-02-10 01:10:05.372309  part_connect part update-------------------
+
+--data
+	    FEM75061:A  ['FEM75061', 'A', 'hpn', 'FEM75061'];  ['FEM75061', 'A', 'hpn_rev', 'A'];  ['FEM75061', 'A', 'hptype', 'front-end'];  ['FEM75061', 'A', 'manufacturer_number', '75061'];  ['FEM75061', 'A', 'start_gpstime', 1195466418];  
+
+-------------------2018-02-10 01:10:07.100604  part_connect part update-------------------
+
+--data
+	    FEM75062:A  ['FEM75062', 'A', 'hpn', 'FEM75062'];  ['FEM75062', 'A', 'hpn_rev', 'A'];  ['FEM75062', 'A', 'hptype', 'front-end'];  ['FEM75062', 'A', 'manufacturer_number', '75062'];  ['FEM75062', 'A', 'start_gpstime', 1195466418];  
+
+-------------------2018-02-10 01:10:08.887243  part_connect part update-------------------
+
+--data
+	    FEM75063:A  ['FEM75063', 'A', 'hpn', 'FEM75063'];  ['FEM75063', 'A', 'hpn_rev', 'A'];  ['FEM75063', 'A', 'hptype', 'front-end'];  ['FEM75063', 'A', 'manufacturer_number', '75063'];  ['FEM75063', 'A', 'start_gpstime', 1195466418];  
+
+-------------------2018-02-10 01:10:10.627095  part_connect part update-------------------
+
+--data
+	    FEM75049:A  ['FEM75049', 'A', 'hpn', 'FEM75049'];  ['FEM75049', 'A', 'hpn_rev', 'A'];  ['FEM75049', 'A', 'hptype', 'front-end'];  ['FEM75049', 'A', 'manufacturer_number', '75049'];  ['FEM75049', 'A', 'start_gpstime', 1195466418];  
+
+-------------------2018-02-10 01:10:12.384998  part_connect part update-------------------
+
+--data
+	    FEM75050:A  ['FEM75050', 'A', 'hpn', 'FEM75050'];  ['FEM75050', 'A', 'hpn_rev', 'A'];  ['FEM75050', 'A', 'hptype', 'front-end'];  ['FEM75050', 'A', 'manufacturer_number', '75050'];  ['FEM75050', 'A', 'start_gpstime', 1195466418];  
+
+-------------------2018-02-10 01:10:15.937899  part_connect part update-------------------
+
+--data
+	    PAM75164:B  ['PAM75164', 'B', 'hpn', 'PAM75164'];  ['PAM75164', 'B', 'hpn_rev', 'B'];  ['PAM75164', 'B', 'hptype', 'post-amp'];  ['PAM75164', 'B', 'manufacturer_number', '75164'];  ['PAM75164', 'B', 'start_gpstime', 1195466418];  
+
+-------------------2018-02-10 01:10:17.699925  part_connect part update-------------------
+
+--data
+	    PAM75163:B  ['PAM75163', 'B', 'hpn', 'PAM75163'];  ['PAM75163', 'B', 'hpn_rev', 'B'];  ['PAM75163', 'B', 'hptype', 'post-amp'];  ['PAM75163', 'B', 'manufacturer_number', '75163'];  ['PAM75163', 'B', 'start_gpstime', 1195466418];  
+
+-------------------2018-02-10 01:10:19.441152  part_connect part update-------------------
+
+--data
+	    PAM75162:B  ['PAM75162', 'B', 'hpn', 'PAM75162'];  ['PAM75162', 'B', 'hpn_rev', 'B'];  ['PAM75162', 'B', 'hptype', 'post-amp'];  ['PAM75162', 'B', 'manufacturer_number', '75162'];  ['PAM75162', 'B', 'start_gpstime', 1195466418];  
+
+-------------------2018-02-10 01:10:21.183744  part_connect part update-------------------
+
+--data
+	    PAM75161:B  ['PAM75161', 'B', 'hpn', 'PAM75161'];  ['PAM75161', 'B', 'hpn_rev', 'B'];  ['PAM75161', 'B', 'hptype', 'post-amp'];  ['PAM75161', 'B', 'manufacturer_number', '75161'];  ['PAM75161', 'B', 'start_gpstime', 1195466418];  
+
+-------------------2018-02-10 01:10:23.033130  part_connect part update-------------------
+
+--data
+	    PAM75160:B  ['PAM75160', 'B', 'hpn', 'PAM75160'];  ['PAM75160', 'B', 'hpn_rev', 'B'];  ['PAM75160', 'B', 'hptype', 'post-amp'];  ['PAM75160', 'B', 'manufacturer_number', '75160'];  ['PAM75160', 'B', 'start_gpstime', 1195466418];  
+
+-------------------2018-02-10 01:10:24.846172  part_connect connection update-------------------
+
+--data
+	    FDA55:FEM75025:terminals:input  ['FDA55', 'B', 'FEM75025', 'A', 'terminals', 'input', 1186704018L, 'stop_gpstime', 1200996018];  
+
+-------------------2018-02-10 01:10:26.584730  part_connect connection update-------------------
+
+--data
+	    FEM75025:C7F68:e:ea  ['FEM75025', 'A', 'C7F68', 'A', 'e', 'ea', 1186704018L, 'stop_gpstime', 1200996018];  
+
+-------------------2018-02-10 01:10:28.351089  part_connect connection update-------------------
+
+--data
+	    FEM75025:C7F68:n:na  ['FEM75025', 'A', 'C7F68', 'A', 'n', 'na', 1186704018L, 'stop_gpstime', 1200996018];  
+
+-------------------2018-02-10 01:10:30.095497  part_connect connection update-------------------
+
+--data
+	    FDA41:FEM75068:terminals:input  ['FDA41', 'B', 'FEM75068', 'A', 'terminals', 'input', 1199440818L, 'stop_gpstime', 1200996018];  
+
+-------------------2018-02-10 01:10:31.850834  part_connect connection update-------------------
+
+--data
+	    FEM75068:C7F104:e:ea  ['FEM75068', 'A', 'C7F104', 'A', 'e', 'ea', 1199440818L, 'stop_gpstime', 1200996018];  
+
+-------------------2018-02-10 01:10:33.610873  part_connect connection update-------------------
+
+--data
+	    FEM75068:C7F104:n:na  ['FEM75068', 'A', 'C7F104', 'A', 'n', 'na', 1199440818L, 'stop_gpstime', 1200996018];  
+
+-------------------2018-02-10 01:10:35.433486  part_connect connection update-------------------
+
+--data
+	    FDA55:FEM75049:terminals:input  ['FDA55', 'B', 'FEM75049', 'A', 'terminals', 'input', 1200996018, 'upstream_part', 'FDA55'];  ['FDA55', 'B', 'FEM75049', 'A', 'terminals', 'input', 1200996018, 'up_part_rev', 'B'];  ['FDA55', 'B', 'FEM75049', 'A', 'terminals', 'input', 1200996018, 'downstream_part', 'FEM75049'];  ['FDA55', 'B', 'FEM75049', 'A', 'terminals', 'input', 1200996018, 'down_part_rev', 'A'];  ['FDA55', 'B', 'FEM75049', 'A', 'terminals', 'input', 1200996018, 'upstream_output_port', 'terminals'];  ['FDA55', 'B', 'FEM75049', 'A', 'terminals', 'input', 1200996018, 'downstream_input_port', 'input'];  ['FDA55', 'B', 'FEM75049', 'A', 'terminals', 'input', 1200996018, 'start_gpstime', 1200996018];  
+
+-------------------2018-02-10 01:10:37.277804  part_connect connection update-------------------
+
+--data
+	    FEM75049:C7F68:e:ea  ['FEM75049', 'A', 'C7F68', 'A', 'e', 'ea', 1200996018, 'upstream_part', 'FEM75049'];  ['FEM75049', 'A', 'C7F68', 'A', 'e', 'ea', 1200996018, 'up_part_rev', 'A'];  ['FEM75049', 'A', 'C7F68', 'A', 'e', 'ea', 1200996018, 'downstream_part', 'C7F68'];  ['FEM75049', 'A', 'C7F68', 'A', 'e', 'ea', 1200996018, 'down_part_rev', 'A'];  ['FEM75049', 'A', 'C7F68', 'A', 'e', 'ea', 1200996018, 'upstream_output_port', 'e'];  ['FEM75049', 'A', 'C7F68', 'A', 'e', 'ea', 1200996018, 'downstream_input_port', 'ea'];  ['FEM75049', 'A', 'C7F68', 'A', 'e', 'ea', 1200996018, 'start_gpstime', 1200996018];  
+
+-------------------2018-02-10 01:10:39.130483  part_connect connection update-------------------
+
+--data
+	    FEM75049:C7F68:n:na  ['FEM75049', 'A', 'C7F68', 'A', 'n', 'na', 1200996018, 'upstream_part', 'FEM75049'];  ['FEM75049', 'A', 'C7F68', 'A', 'n', 'na', 1200996018, 'up_part_rev', 'A'];  ['FEM75049', 'A', 'C7F68', 'A', 'n', 'na', 1200996018, 'downstream_part', 'C7F68'];  ['FEM75049', 'A', 'C7F68', 'A', 'n', 'na', 1200996018, 'down_part_rev', 'A'];  ['FEM75049', 'A', 'C7F68', 'A', 'n', 'na', 1200996018, 'upstream_output_port', 'n'];  ['FEM75049', 'A', 'C7F68', 'A', 'n', 'na', 1200996018, 'downstream_input_port', 'na'];  ['FEM75049', 'A', 'C7F68', 'A', 'n', 'na', 1200996018, 'start_gpstime', 1200996018];  
+
+-------------------2018-02-10 01:10:41.032362  part_connect connection update-------------------
+
+--data
+	    FDA41:FEM75050:terminals:input  ['FDA41', 'B', 'FEM75050', 'A', 'terminals', 'input', 1200996018, 'upstream_part', 'FDA41'];  ['FDA41', 'B', 'FEM75050', 'A', 'terminals', 'input', 1200996018, 'up_part_rev', 'B'];  ['FDA41', 'B', 'FEM75050', 'A', 'terminals', 'input', 1200996018, 'downstream_part', 'FEM75050'];  ['FDA41', 'B', 'FEM75050', 'A', 'terminals', 'input', 1200996018, 'down_part_rev', 'A'];  ['FDA41', 'B', 'FEM75050', 'A', 'terminals', 'input', 1200996018, 'upstream_output_port', 'terminals'];  ['FDA41', 'B', 'FEM75050', 'A', 'terminals', 'input', 1200996018, 'downstream_input_port', 'input'];  ['FDA41', 'B', 'FEM75050', 'A', 'terminals', 'input', 1200996018, 'start_gpstime', 1200996018];  
+
+-------------------2018-02-10 01:10:42.797301  part_connect connection update-------------------
+
+--data
+	    FEM75050:C7F104:e:ea  ['FEM75050', 'A', 'C7F104', 'A', 'e', 'ea', 1200996018, 'upstream_part', 'FEM75050'];  ['FEM75050', 'A', 'C7F104', 'A', 'e', 'ea', 1200996018, 'up_part_rev', 'A'];  ['FEM75050', 'A', 'C7F104', 'A', 'e', 'ea', 1200996018, 'downstream_part', 'C7F104'];  ['FEM75050', 'A', 'C7F104', 'A', 'e', 'ea', 1200996018, 'down_part_rev', 'A'];  ['FEM75050', 'A', 'C7F104', 'A', 'e', 'ea', 1200996018, 'upstream_output_port', 'e'];  ['FEM75050', 'A', 'C7F104', 'A', 'e', 'ea', 1200996018, 'downstream_input_port', 'ea'];  ['FEM75050', 'A', 'C7F104', 'A', 'e', 'ea', 1200996018, 'start_gpstime', 1200996018];  
+
+-------------------2018-02-10 01:10:44.603066  part_connect connection update-------------------
+
+--data
+	    FEM75050:C7F104:n:na  ['FEM75050', 'A', 'C7F104', 'A', 'n', 'na', 1200996018, 'upstream_part', 'FEM75050'];  ['FEM75050', 'A', 'C7F104', 'A', 'n', 'na', 1200996018, 'up_part_rev', 'A'];  ['FEM75050', 'A', 'C7F104', 'A', 'n', 'na', 1200996018, 'downstream_part', 'C7F104'];  ['FEM75050', 'A', 'C7F104', 'A', 'n', 'na', 1200996018, 'down_part_rev', 'A'];  ['FEM75050', 'A', 'C7F104', 'A', 'n', 'na', 1200996018, 'upstream_output_port', 'n'];  ['FEM75050', 'A', 'C7F104', 'A', 'n', 'na', 1200996018, 'downstream_input_port', 'na'];  ['FEM75050', 'A', 'C7F104', 'A', 'n', 'na', 1200996018, 'start_gpstime', 1200996018];  
+
+-------------------2018-02-10 01:10:46.362929  add_station-------------------
+
+--args
+	from_file:  /home/obs/anaconda/envs/HERA/lib/python2.7/site-packages/hera_mc-0.1.dev0-py2.7.egg/hera_mc/data/HERA_350.txt;  add_new_part:  True;  add_new_geo:  True;  elevation:  1052.07;  verbosity:  h;  mc_db_name:  None;  datum:  WGS84;  tile:  34J;  time:  0.0;  easting:  540974.6;  mc_config_path:  /home/obs/.hera_mc/mc_config.json;  date:  now;  query:  False;  station_name:  HH57;  station_type_name:  herahex;  northing:  6601121.32;  
+
+-------------------2018-02-10 01:10:46.372511  geo_location update-------------------
+
+--data
+	    HH57  ['HH57', 'station_name', 'HH57'];  ['HH57', 'station_type_name', 'herahex'];  ['HH57', 'created_gpstime', 1202260264.3637192];  ['HH57', 'datum', 'WGS84'];  ['HH57', 'tile', '34J'];  ['HH57', 'northing', 6601121.32];  ['HH57', 'easting', 540974.6];  ['HH57', 'elevation', 1052.07];  
+
+-------------------2018-02-10 01:10:46.381992  part_connect part update-------------------
+
+--data
+	    HH57:A  ['HH57', 'A', 'hpn', 'HH57'];  ['HH57', 'A', 'hpn_rev', 'A'];  ['HH57', 'A', 'hptype', 'station'];  ['HH57', 'A', 'manufacturer_number', 'HH57'];  ['HH57', 'A', 'start_gpstime', 1202260264.37297];  
+
+-------------------2018-02-10 01:10:48.199352  part_connect part update-------------------
+
+--data
+	    A57:H  ['A57', 'H', 'hpn', 'A57'];  ['A57', 'H', 'hpn_rev', 'H'];  ['A57', 'H', 'hptype', 'antenna'];  ['A57', 'H', 'manufacturer_number', 'S/N70'];  ['A57', 'H', 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:10:49.941180  part_connect part update-------------------
+
+--data
+	    FDA57:B  ['FDA57', 'B', 'hpn', 'FDA57'];  ['FDA57', 'B', 'hpn_rev', 'B'];  ['FDA57', 'B', 'hptype', 'feed'];  ['FDA57', 'B', 'manufacturer_number', 'P57'];  ['FDA57', 'B', 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:10:51.717485  part_connect connection update-------------------
+
+--data
+	    HH57:A57:ground:ground  ['HH57', 'A', 'A57', 'H', 'ground', 'ground', 1202032818, 'upstream_part', 'HH57'];  ['HH57', 'A', 'A57', 'H', 'ground', 'ground', 1202032818, 'up_part_rev', 'A'];  ['HH57', 'A', 'A57', 'H', 'ground', 'ground', 1202032818, 'downstream_part', 'A57'];  ['HH57', 'A', 'A57', 'H', 'ground', 'ground', 1202032818, 'down_part_rev', 'H'];  ['HH57', 'A', 'A57', 'H', 'ground', 'ground', 1202032818, 'upstream_output_port', 'ground'];  ['HH57', 'A', 'A57', 'H', 'ground', 'ground', 1202032818, 'downstream_input_port', 'ground'];  ['HH57', 'A', 'A57', 'H', 'ground', 'ground', 1202032818, 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:10:53.589447  part_connect connection update-------------------
+
+--data
+	    A57:FDA57:focus:input  ['A57', 'H', 'FDA57', 'B', 'focus', 'input', 1202032818, 'upstream_part', 'A57'];  ['A57', 'H', 'FDA57', 'B', 'focus', 'input', 1202032818, 'up_part_rev', 'H'];  ['A57', 'H', 'FDA57', 'B', 'focus', 'input', 1202032818, 'downstream_part', 'FDA57'];  ['A57', 'H', 'FDA57', 'B', 'focus', 'input', 1202032818, 'down_part_rev', 'B'];  ['A57', 'H', 'FDA57', 'B', 'focus', 'input', 1202032818, 'upstream_output_port', 'focus'];  ['A57', 'H', 'FDA57', 'B', 'focus', 'input', 1202032818, 'downstream_input_port', 'input'];  ['A57', 'H', 'FDA57', 'B', 'focus', 'input', 1202032818, 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:10:55.317756  add_station-------------------
+
+--args
+	from_file:  /home/obs/anaconda/envs/HERA/lib/python2.7/site-packages/hera_mc-0.1.dev0-py2.7.egg/hera_mc/data/HERA_350.txt;  add_new_part:  True;  add_new_geo:  True;  elevation:  1052.04;  verbosity:  h;  mc_db_name:  None;  datum:  WGS84;  tile:  34J;  time:  0.0;  easting:  540989.2;  mc_config_path:  /home/obs/.hera_mc/mc_config.json;  date:  now;  query:  False;  station_name:  HH58;  station_type_name:  herahex;  northing:  6601121.32;  
+
+-------------------2018-02-10 01:10:55.327247  geo_location update-------------------
+
+--data
+	    HH58  ['HH58', 'station_name', 'HH58'];  ['HH58', 'station_type_name', 'herahex'];  ['HH58', 'created_gpstime', 1202260273.318531];  ['HH58', 'datum', 'WGS84'];  ['HH58', 'tile', '34J'];  ['HH58', 'northing', 6601121.32];  ['HH58', 'easting', 540989.2];  ['HH58', 'elevation', 1052.04];  
+
+-------------------2018-02-10 01:10:55.336675  part_connect part update-------------------
+
+--data
+	    HH58:A  ['HH58', 'A', 'hpn', 'HH58'];  ['HH58', 'A', 'hpn_rev', 'A'];  ['HH58', 'A', 'hptype', 'station'];  ['HH58', 'A', 'manufacturer_number', 'HH58'];  ['HH58', 'A', 'start_gpstime', 1202260273.327724];  
+
+-------------------2018-02-10 01:10:57.106665  part_connect part update-------------------
+
+--data
+	    A58:H  ['A58', 'H', 'hpn', 'A58'];  ['A58', 'H', 'hpn_rev', 'H'];  ['A58', 'H', 'hptype', 'antenna'];  ['A58', 'H', 'manufacturer_number', 'S/N71'];  ['A58', 'H', 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:10:58.965695  part_connect part update-------------------
+
+--data
+	    FDA58:B  ['FDA58', 'B', 'hpn', 'FDA58'];  ['FDA58', 'B', 'hpn_rev', 'B'];  ['FDA58', 'B', 'hptype', 'feed'];  ['FDA58', 'B', 'manufacturer_number', 'P58'];  ['FDA58', 'B', 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:11:00.770020  part_connect connection update-------------------
+
+--data
+	    HH58:A58:ground:ground  ['HH58', 'A', 'A58', 'H', 'ground', 'ground', 1202032818, 'upstream_part', 'HH58'];  ['HH58', 'A', 'A58', 'H', 'ground', 'ground', 1202032818, 'up_part_rev', 'A'];  ['HH58', 'A', 'A58', 'H', 'ground', 'ground', 1202032818, 'downstream_part', 'A58'];  ['HH58', 'A', 'A58', 'H', 'ground', 'ground', 1202032818, 'down_part_rev', 'H'];  ['HH58', 'A', 'A58', 'H', 'ground', 'ground', 1202032818, 'upstream_output_port', 'ground'];  ['HH58', 'A', 'A58', 'H', 'ground', 'ground', 1202032818, 'downstream_input_port', 'ground'];  ['HH58', 'A', 'A58', 'H', 'ground', 'ground', 1202032818, 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:11:02.632628  part_connect connection update-------------------
+
+--data
+	    A58:FDA58:focus:input  ['A58', 'H', 'FDA58', 'B', 'focus', 'input', 1202032818, 'upstream_part', 'A58'];  ['A58', 'H', 'FDA58', 'B', 'focus', 'input', 1202032818, 'up_part_rev', 'H'];  ['A58', 'H', 'FDA58', 'B', 'focus', 'input', 1202032818, 'downstream_part', 'FDA58'];  ['A58', 'H', 'FDA58', 'B', 'focus', 'input', 1202032818, 'down_part_rev', 'B'];  ['A58', 'H', 'FDA58', 'B', 'focus', 'input', 1202032818, 'upstream_output_port', 'focus'];  ['A58', 'H', 'FDA58', 'B', 'focus', 'input', 1202032818, 'downstream_input_port', 'input'];  ['A58', 'H', 'FDA58', 'B', 'focus', 'input', 1202032818, 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:11:04.417820  add_station-------------------
+
+--args
+	from_file:  /home/obs/anaconda/envs/HERA/lib/python2.7/site-packages/hera_mc-0.1.dev0-py2.7.egg/hera_mc/data/HERA_350.txt;  add_new_part:  True;  add_new_geo:  True;  elevation:  1051.99;  verbosity:  h;  mc_db_name:  None;  datum:  WGS84;  tile:  34J;  time:  0.0;  easting:  540967.3;  mc_config_path:  /home/obs/.hera_mc/mc_config.json;  date:  now;  query:  False;  station_name:  HH72;  station_type_name:  herahex;  northing:  6601133.96;  
+
+-------------------2018-02-10 01:11:04.428082  geo_location update-------------------
+
+--data
+	    HH72  ['HH72', 'station_name', 'HH72'];  ['HH72', 'station_type_name', 'herahex'];  ['HH72', 'created_gpstime', 1202260282.418648];  ['HH72', 'datum', 'WGS84'];  ['HH72', 'tile', '34J'];  ['HH72', 'northing', 6601133.96];  ['HH72', 'easting', 540967.3];  ['HH72', 'elevation', 1051.99];  
+
+-------------------2018-02-10 01:11:04.438336  part_connect part update-------------------
+
+--data
+	    HH72:A  ['HH72', 'A', 'hpn', 'HH72'];  ['HH72', 'A', 'hpn_rev', 'A'];  ['HH72', 'A', 'hptype', 'station'];  ['HH72', 'A', 'manufacturer_number', 'HH72'];  ['HH72', 'A', 'start_gpstime', 1202260282.428562];  
+
+-------------------2018-02-10 01:11:06.200882  part_connect part update-------------------
+
+--data
+	    A72:H  ['A72', 'H', 'hpn', 'A72'];  ['A72', 'H', 'hpn_rev', 'H'];  ['A72', 'H', 'hptype', 'antenna'];  ['A72', 'H', 'manufacturer_number', 'S/N72'];  ['A72', 'H', 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:11:07.941672  part_connect part update-------------------
+
+--data
+	    FDA59:B  ['FDA59', 'B', 'hpn', 'FDA59'];  ['FDA59', 'B', 'hpn_rev', 'B'];  ['FDA59', 'B', 'hptype', 'feed'];  ['FDA59', 'B', 'manufacturer_number', 'P59'];  ['FDA59', 'B', 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:11:09.747585  part_connect connection update-------------------
+
+--data
+	    HH72:A72:ground:ground  ['HH72', 'A', 'A72', 'H', 'ground', 'ground', 1202032818, 'upstream_part', 'HH72'];  ['HH72', 'A', 'A72', 'H', 'ground', 'ground', 1202032818, 'up_part_rev', 'A'];  ['HH72', 'A', 'A72', 'H', 'ground', 'ground', 1202032818, 'downstream_part', 'A72'];  ['HH72', 'A', 'A72', 'H', 'ground', 'ground', 1202032818, 'down_part_rev', 'H'];  ['HH72', 'A', 'A72', 'H', 'ground', 'ground', 1202032818, 'upstream_output_port', 'ground'];  ['HH72', 'A', 'A72', 'H', 'ground', 'ground', 1202032818, 'downstream_input_port', 'ground'];  ['HH72', 'A', 'A72', 'H', 'ground', 'ground', 1202032818, 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:11:11.519421  part_connect connection update-------------------
+
+--data
+	    A72:FDA59:focus:input  ['A72', 'H', 'FDA59', 'B', 'focus', 'input', 1202032818, 'upstream_part', 'A72'];  ['A72', 'H', 'FDA59', 'B', 'focus', 'input', 1202032818, 'up_part_rev', 'H'];  ['A72', 'H', 'FDA59', 'B', 'focus', 'input', 1202032818, 'downstream_part', 'FDA59'];  ['A72', 'H', 'FDA59', 'B', 'focus', 'input', 1202032818, 'down_part_rev', 'B'];  ['A72', 'H', 'FDA59', 'B', 'focus', 'input', 1202032818, 'upstream_output_port', 'focus'];  ['A72', 'H', 'FDA59', 'B', 'focus', 'input', 1202032818, 'downstream_input_port', 'input'];  ['A72', 'H', 'FDA59', 'B', 'focus', 'input', 1202032818, 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:11:15.086678  part_connect connection update-------------------
+
+--data
+	    PAM75132:RO3B8E:eb:b  ['PAM75132', 'B', 'RO3B8E', 'A', 'eb', 'b', 1202032818, 'upstream_part', 'PAM75132'];  ['PAM75132', 'B', 'RO3B8E', 'A', 'eb', 'b', 1202032818, 'up_part_rev', 'B'];  ['PAM75132', 'B', 'RO3B8E', 'A', 'eb', 'b', 1202032818, 'downstream_part', 'RO3B8E'];  ['PAM75132', 'B', 'RO3B8E', 'A', 'eb', 'b', 1202032818, 'down_part_rev', 'A'];  ['PAM75132', 'B', 'RO3B8E', 'A', 'eb', 'b', 1202032818, 'upstream_output_port', 'eb'];  ['PAM75132', 'B', 'RO3B8E', 'A', 'eb', 'b', 1202032818, 'downstream_input_port', 'b'];  ['PAM75132', 'B', 'RO3B8E', 'A', 'eb', 'b', 1202032818, 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:11:18.703932  part_connect connection update-------------------
+
+--data
+	    PAM75132:RO3B8N:nb:b  ['PAM75132', 'B', 'RO3B8N', 'A', 'nb', 'b', 1202032818, 'upstream_part', 'PAM75132'];  ['PAM75132', 'B', 'RO3B8N', 'A', 'nb', 'b', 1202032818, 'up_part_rev', 'B'];  ['PAM75132', 'B', 'RO3B8N', 'A', 'nb', 'b', 1202032818, 'downstream_part', 'RO3B8N'];  ['PAM75132', 'B', 'RO3B8N', 'A', 'nb', 'b', 1202032818, 'down_part_rev', 'A'];  ['PAM75132', 'B', 'RO3B8N', 'A', 'nb', 'b', 1202032818, 'upstream_output_port', 'nb'];  ['PAM75132', 'B', 'RO3B8N', 'A', 'nb', 'b', 1202032818, 'downstream_input_port', 'b'];  ['PAM75132', 'B', 'RO3B8N', 'A', 'nb', 'b', 1202032818, 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:11:20.540194  add_station-------------------
+
+--args
+	from_file:  /home/obs/anaconda/envs/HERA/lib/python2.7/site-packages/hera_mc-0.1.dev0-py2.7.egg/hera_mc/data/HERA_350.txt;  add_new_part:  True;  add_new_geo:  True;  elevation:  1051.89;  verbosity:  h;  mc_db_name:  None;  datum:  WGS84;  tile:  34J;  time:  0.0;  easting:  540857.8;  mc_config_path:  /home/obs/.hera_mc/mc_config.json;  date:  now;  query:  False;  station_name:  HH81;  station_type_name:  herahex;  northing:  6601146.6;  
+
+-------------------2018-02-10 01:11:20.549828  geo_location update-------------------
+
+--data
+	    HH81  ['HH81', 'station_name', 'HH81'];  ['HH81', 'station_type_name', 'herahex'];  ['HH81', 'created_gpstime', 1202260298.540985];  ['HH81', 'datum', 'WGS84'];  ['HH81', 'tile', '34J'];  ['HH81', 'northing', 6601146.6];  ['HH81', 'easting', 540857.8];  ['HH81', 'elevation', 1051.89];  
+
+-------------------2018-02-10 01:11:20.560181  part_connect part update-------------------
+
+--data
+	    HH81:A  ['HH81', 'A', 'hpn', 'HH81'];  ['HH81', 'A', 'hpn_rev', 'A'];  ['HH81', 'A', 'hptype', 'station'];  ['HH81', 'A', 'manufacturer_number', 'HH81'];  ['HH81', 'A', 'start_gpstime', 1202260298.5502892];  
+
+-------------------2018-02-10 01:11:22.359039  part_connect part update-------------------
+
+--data
+	    A81:H  ['A81', 'H', 'hpn', 'A81'];  ['A81', 'H', 'hpn_rev', 'H'];  ['A81', 'H', 'hptype', 'antenna'];  ['A81', 'H', 'manufacturer_number', 'S/N73'];  ['A81', 'H', 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:11:24.145944  part_connect part update-------------------
+
+--data
+	    FDA60:B  ['FDA60', 'B', 'hpn', 'FDA60'];  ['FDA60', 'B', 'hpn_rev', 'B'];  ['FDA60', 'B', 'hptype', 'feed'];  ['FDA60', 'B', 'manufacturer_number', 'P60'];  ['FDA60', 'B', 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:11:26.043792  part_connect connection update-------------------
+
+--data
+	    HH81:A81:ground:ground  ['HH81', 'A', 'A81', 'H', 'ground', 'ground', 1202032818, 'upstream_part', 'HH81'];  ['HH81', 'A', 'A81', 'H', 'ground', 'ground', 1202032818, 'up_part_rev', 'A'];  ['HH81', 'A', 'A81', 'H', 'ground', 'ground', 1202032818, 'downstream_part', 'A81'];  ['HH81', 'A', 'A81', 'H', 'ground', 'ground', 1202032818, 'down_part_rev', 'H'];  ['HH81', 'A', 'A81', 'H', 'ground', 'ground', 1202032818, 'upstream_output_port', 'ground'];  ['HH81', 'A', 'A81', 'H', 'ground', 'ground', 1202032818, 'downstream_input_port', 'ground'];  ['HH81', 'A', 'A81', 'H', 'ground', 'ground', 1202032818, 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:11:27.842210  part_connect connection update-------------------
+
+--data
+	    A81:FDA60:focus:input  ['A81', 'H', 'FDA60', 'B', 'focus', 'input', 1202032818, 'upstream_part', 'A81'];  ['A81', 'H', 'FDA60', 'B', 'focus', 'input', 1202032818, 'up_part_rev', 'H'];  ['A81', 'H', 'FDA60', 'B', 'focus', 'input', 1202032818, 'downstream_part', 'FDA60'];  ['A81', 'H', 'FDA60', 'B', 'focus', 'input', 1202032818, 'down_part_rev', 'B'];  ['A81', 'H', 'FDA60', 'B', 'focus', 'input', 1202032818, 'upstream_output_port', 'focus'];  ['A81', 'H', 'FDA60', 'B', 'focus', 'input', 1202032818, 'downstream_input_port', 'input'];  ['A81', 'H', 'FDA60', 'B', 'focus', 'input', 1202032818, 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:11:29.638715  part_connect connection update-------------------
+
+--data
+	    FDA60:FEM75052:terminals:input  ['FDA60', 'B', 'FEM75052', 'A', 'terminals', 'input', 1202032818, 'upstream_part', 'FDA60'];  ['FDA60', 'B', 'FEM75052', 'A', 'terminals', 'input', 1202032818, 'up_part_rev', 'B'];  ['FDA60', 'B', 'FEM75052', 'A', 'terminals', 'input', 1202032818, 'downstream_part', 'FEM75052'];  ['FDA60', 'B', 'FEM75052', 'A', 'terminals', 'input', 1202032818, 'down_part_rev', 'A'];  ['FDA60', 'B', 'FEM75052', 'A', 'terminals', 'input', 1202032818, 'upstream_output_port', 'terminals'];  ['FDA60', 'B', 'FEM75052', 'A', 'terminals', 'input', 1202032818, 'downstream_input_port', 'input'];  ['FDA60', 'B', 'FEM75052', 'A', 'terminals', 'input', 1202032818, 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:11:31.466394  part_connect connection update-------------------
+
+--data
+	    FEM75052:C7F81:e:ea  ['FEM75052', 'A', 'C7F81', 'A', 'e', 'ea', 1202032818, 'upstream_part', 'FEM75052'];  ['FEM75052', 'A', 'C7F81', 'A', 'e', 'ea', 1202032818, 'up_part_rev', 'A'];  ['FEM75052', 'A', 'C7F81', 'A', 'e', 'ea', 1202032818, 'downstream_part', 'C7F81'];  ['FEM75052', 'A', 'C7F81', 'A', 'e', 'ea', 1202032818, 'down_part_rev', 'A'];  ['FEM75052', 'A', 'C7F81', 'A', 'e', 'ea', 1202032818, 'upstream_output_port', 'e'];  ['FEM75052', 'A', 'C7F81', 'A', 'e', 'ea', 1202032818, 'downstream_input_port', 'ea'];  ['FEM75052', 'A', 'C7F81', 'A', 'e', 'ea', 1202032818, 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:11:33.255768  part_connect connection update-------------------
+
+--data
+	    FEM75052:C7F81:n:na  ['FEM75052', 'A', 'C7F81', 'A', 'n', 'na', 1202032818, 'upstream_part', 'FEM75052'];  ['FEM75052', 'A', 'C7F81', 'A', 'n', 'na', 1202032818, 'up_part_rev', 'A'];  ['FEM75052', 'A', 'C7F81', 'A', 'n', 'na', 1202032818, 'downstream_part', 'C7F81'];  ['FEM75052', 'A', 'C7F81', 'A', 'n', 'na', 1202032818, 'down_part_rev', 'A'];  ['FEM75052', 'A', 'C7F81', 'A', 'n', 'na', 1202032818, 'upstream_output_port', 'n'];  ['FEM75052', 'A', 'C7F81', 'A', 'n', 'na', 1202032818, 'downstream_input_port', 'na'];  ['FEM75052', 'A', 'C7F81', 'A', 'n', 'na', 1202032818, 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:11:35.112751  part_connect connection update-------------------
+
+--data
+	    C7F81:RI3B8E:eb:a  ['C7F81', 'A', 'RI3B8E', 'A', 'eb', 'a', 1202032818, 'upstream_part', 'C7F81'];  ['C7F81', 'A', 'RI3B8E', 'A', 'eb', 'a', 1202032818, 'up_part_rev', 'A'];  ['C7F81', 'A', 'RI3B8E', 'A', 'eb', 'a', 1202032818, 'downstream_part', 'RI3B8E'];  ['C7F81', 'A', 'RI3B8E', 'A', 'eb', 'a', 1202032818, 'down_part_rev', 'A'];  ['C7F81', 'A', 'RI3B8E', 'A', 'eb', 'a', 1202032818, 'upstream_output_port', 'eb'];  ['C7F81', 'A', 'RI3B8E', 'A', 'eb', 'a', 1202032818, 'downstream_input_port', 'a'];  ['C7F81', 'A', 'RI3B8E', 'A', 'eb', 'a', 1202032818, 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:11:36.947685  part_connect connection update-------------------
+
+--data
+	    C7F81:RI3B8N:nb:a  ['C7F81', 'A', 'RI3B8N', 'A', 'nb', 'a', 1202032818, 'upstream_part', 'C7F81'];  ['C7F81', 'A', 'RI3B8N', 'A', 'nb', 'a', 1202032818, 'up_part_rev', 'A'];  ['C7F81', 'A', 'RI3B8N', 'A', 'nb', 'a', 1202032818, 'downstream_part', 'RI3B8N'];  ['C7F81', 'A', 'RI3B8N', 'A', 'nb', 'a', 1202032818, 'down_part_rev', 'A'];  ['C7F81', 'A', 'RI3B8N', 'A', 'nb', 'a', 1202032818, 'upstream_output_port', 'nb'];  ['C7F81', 'A', 'RI3B8N', 'A', 'nb', 'a', 1202032818, 'downstream_input_port', 'a'];  ['C7F81', 'A', 'RI3B8N', 'A', 'nb', 'a', 1202032818, 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:11:38.738208  part_connect connection update-------------------
+
+--data
+	    RI2A1E:PAM75164:b:ea  ['RI2A1E', 'A', 'PAM75164', 'B', 'b', 'ea', 1202032818, 'upstream_part', 'RI2A1E'];  ['RI2A1E', 'A', 'PAM75164', 'B', 'b', 'ea', 1202032818, 'up_part_rev', 'A'];  ['RI2A1E', 'A', 'PAM75164', 'B', 'b', 'ea', 1202032818, 'downstream_part', 'PAM75164'];  ['RI2A1E', 'A', 'PAM75164', 'B', 'b', 'ea', 1202032818, 'down_part_rev', 'B'];  ['RI2A1E', 'A', 'PAM75164', 'B', 'b', 'ea', 1202032818, 'upstream_output_port', 'b'];  ['RI2A1E', 'A', 'PAM75164', 'B', 'b', 'ea', 1202032818, 'downstream_input_port', 'ea'];  ['RI2A1E', 'A', 'PAM75164', 'B', 'b', 'ea', 1202032818, 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:11:40.567009  part_connect connection update-------------------
+
+--data
+	    PAM75164:RO2A1E:eb:b  ['PAM75164', 'B', 'RO2A1E', 'A', 'eb', 'b', 1202032818, 'upstream_part', 'PAM75164'];  ['PAM75164', 'B', 'RO2A1E', 'A', 'eb', 'b', 1202032818, 'up_part_rev', 'B'];  ['PAM75164', 'B', 'RO2A1E', 'A', 'eb', 'b', 1202032818, 'downstream_part', 'RO2A1E'];  ['PAM75164', 'B', 'RO2A1E', 'A', 'eb', 'b', 1202032818, 'down_part_rev', 'A'];  ['PAM75164', 'B', 'RO2A1E', 'A', 'eb', 'b', 1202032818, 'upstream_output_port', 'eb'];  ['PAM75164', 'B', 'RO2A1E', 'A', 'eb', 'b', 1202032818, 'downstream_input_port', 'b'];  ['PAM75164', 'B', 'RO2A1E', 'A', 'eb', 'b', 1202032818, 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:11:42.362080  part_connect connection update-------------------
+
+--data
+	    RI2A1N:PAM75164:b:na  ['RI2A1N', 'A', 'PAM75164', 'B', 'b', 'na', 1202032818, 'upstream_part', 'RI2A1N'];  ['RI2A1N', 'A', 'PAM75164', 'B', 'b', 'na', 1202032818, 'up_part_rev', 'A'];  ['RI2A1N', 'A', 'PAM75164', 'B', 'b', 'na', 1202032818, 'downstream_part', 'PAM75164'];  ['RI2A1N', 'A', 'PAM75164', 'B', 'b', 'na', 1202032818, 'down_part_rev', 'B'];  ['RI2A1N', 'A', 'PAM75164', 'B', 'b', 'na', 1202032818, 'upstream_output_port', 'b'];  ['RI2A1N', 'A', 'PAM75164', 'B', 'b', 'na', 1202032818, 'downstream_input_port', 'na'];  ['RI2A1N', 'A', 'PAM75164', 'B', 'b', 'na', 1202032818, 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:11:44.191863  part_connect connection update-------------------
+
+--data
+	    PAM75164:RO2A1N:nb:b  ['PAM75164', 'B', 'RO2A1N', 'A', 'nb', 'b', 1202032818, 'upstream_part', 'PAM75164'];  ['PAM75164', 'B', 'RO2A1N', 'A', 'nb', 'b', 1202032818, 'up_part_rev', 'B'];  ['PAM75164', 'B', 'RO2A1N', 'A', 'nb', 'b', 1202032818, 'downstream_part', 'RO2A1N'];  ['PAM75164', 'B', 'RO2A1N', 'A', 'nb', 'b', 1202032818, 'down_part_rev', 'A'];  ['PAM75164', 'B', 'RO2A1N', 'A', 'nb', 'b', 1202032818, 'upstream_output_port', 'nb'];  ['PAM75164', 'B', 'RO2A1N', 'A', 'nb', 'b', 1202032818, 'downstream_input_port', 'b'];  ['PAM75164', 'B', 'RO2A1N', 'A', 'nb', 'b', 1202032818, 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:11:46.047125  add_station-------------------
+
+--args
+	from_file:  /home/obs/anaconda/envs/HERA/lib/python2.7/site-packages/hera_mc-0.1.dev0-py2.7.egg/hera_mc/data/HERA_350.txt;  add_new_part:  True;  add_new_geo:  True;  elevation:  1051.69;  verbosity:  h;  mc_db_name:  None;  datum:  WGS84;  tile:  34J;  time:  0.0;  easting:  540843.2;  mc_config_path:  /home/obs/.hera_mc/mc_config.json;  date:  now;  query:  False;  station_name:  HH116;  station_type_name:  herahex;  northing:  6601171.89;  
+
+-------------------2018-02-10 01:11:46.057078  geo_location update-------------------
+
+--data
+	    HH116  ['HH116', 'station_name', 'HH116'];  ['HH116', 'station_type_name', 'herahex'];  ['HH116', 'created_gpstime', 1202260324.047937];  ['HH116', 'datum', 'WGS84'];  ['HH116', 'tile', '34J'];  ['HH116', 'northing', 6601171.89];  ['HH116', 'easting', 540843.2];  ['HH116', 'elevation', 1051.69];  
+
+-------------------2018-02-10 01:11:46.068855  part_connect part update-------------------
+
+--data
+	    HH116:A  ['HH116', 'A', 'hpn', 'HH116'];  ['HH116', 'A', 'hpn_rev', 'A'];  ['HH116', 'A', 'hptype', 'station'];  ['HH116', 'A', 'manufacturer_number', 'HH116'];  ['HH116', 'A', 'start_gpstime', 1202260324.057635];  
+
+-------------------2018-02-10 01:11:47.886109  part_connect part update-------------------
+
+--data
+	    A116:H  ['A116', 'H', 'hpn', 'A116'];  ['A116', 'H', 'hpn_rev', 'H'];  ['A116', 'H', 'hptype', 'antenna'];  ['A116', 'H', 'manufacturer_number', 'S/N74'];  ['A116', 'H', 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:11:49.672094  part_connect part update-------------------
+
+--data
+	    FDA61:B  ['FDA61', 'B', 'hpn', 'FDA61'];  ['FDA61', 'B', 'hpn_rev', 'B'];  ['FDA61', 'B', 'hptype', 'feed'];  ['FDA61', 'B', 'manufacturer_number', 'P61'];  ['FDA61', 'B', 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:11:51.526625  part_connect connection update-------------------
+
+--data
+	    HH116:A116:ground:ground  ['HH116', 'A', 'A116', 'H', 'ground', 'ground', 1202032818, 'upstream_part', 'HH116'];  ['HH116', 'A', 'A116', 'H', 'ground', 'ground', 1202032818, 'up_part_rev', 'A'];  ['HH116', 'A', 'A116', 'H', 'ground', 'ground', 1202032818, 'downstream_part', 'A116'];  ['HH116', 'A', 'A116', 'H', 'ground', 'ground', 1202032818, 'down_part_rev', 'H'];  ['HH116', 'A', 'A116', 'H', 'ground', 'ground', 1202032818, 'upstream_output_port', 'ground'];  ['HH116', 'A', 'A116', 'H', 'ground', 'ground', 1202032818, 'downstream_input_port', 'ground'];  ['HH116', 'A', 'A116', 'H', 'ground', 'ground', 1202032818, 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:11:53.408072  part_connect connection update-------------------
+
+--data
+	    A116:FDA61:focus:input  ['A116', 'H', 'FDA61', 'B', 'focus', 'input', 1202032818, 'upstream_part', 'A116'];  ['A116', 'H', 'FDA61', 'B', 'focus', 'input', 1202032818, 'up_part_rev', 'H'];  ['A116', 'H', 'FDA61', 'B', 'focus', 'input', 1202032818, 'downstream_part', 'FDA61'];  ['A116', 'H', 'FDA61', 'B', 'focus', 'input', 1202032818, 'down_part_rev', 'B'];  ['A116', 'H', 'FDA61', 'B', 'focus', 'input', 1202032818, 'upstream_output_port', 'focus'];  ['A116', 'H', 'FDA61', 'B', 'focus', 'input', 1202032818, 'downstream_input_port', 'input'];  ['A116', 'H', 'FDA61', 'B', 'focus', 'input', 1202032818, 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:11:55.279046  part_connect connection update-------------------
+
+--data
+	    FDA61:FEM75051:terminals:input  ['FDA61', 'B', 'FEM75051', 'A', 'terminals', 'input', 1202032818, 'upstream_part', 'FDA61'];  ['FDA61', 'B', 'FEM75051', 'A', 'terminals', 'input', 1202032818, 'up_part_rev', 'B'];  ['FDA61', 'B', 'FEM75051', 'A', 'terminals', 'input', 1202032818, 'downstream_part', 'FEM75051'];  ['FDA61', 'B', 'FEM75051', 'A', 'terminals', 'input', 1202032818, 'down_part_rev', 'A'];  ['FDA61', 'B', 'FEM75051', 'A', 'terminals', 'input', 1202032818, 'upstream_output_port', 'terminals'];  ['FDA61', 'B', 'FEM75051', 'A', 'terminals', 'input', 1202032818, 'downstream_input_port', 'input'];  ['FDA61', 'B', 'FEM75051', 'A', 'terminals', 'input', 1202032818, 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:11:57.090589  part_connect connection update-------------------
+
+--data
+	    FEM75051:C7F116:e:ea  ['FEM75051', 'A', 'C7F116', 'A', 'e', 'ea', 1202032818, 'upstream_part', 'FEM75051'];  ['FEM75051', 'A', 'C7F116', 'A', 'e', 'ea', 1202032818, 'up_part_rev', 'A'];  ['FEM75051', 'A', 'C7F116', 'A', 'e', 'ea', 1202032818, 'downstream_part', 'C7F116'];  ['FEM75051', 'A', 'C7F116', 'A', 'e', 'ea', 1202032818, 'down_part_rev', 'A'];  ['FEM75051', 'A', 'C7F116', 'A', 'e', 'ea', 1202032818, 'upstream_output_port', 'e'];  ['FEM75051', 'A', 'C7F116', 'A', 'e', 'ea', 1202032818, 'downstream_input_port', 'ea'];  ['FEM75051', 'A', 'C7F116', 'A', 'e', 'ea', 1202032818, 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:11:58.921424  part_connect connection update-------------------
+
+--data
+	    FEM75051:C7F116:n:na  ['FEM75051', 'A', 'C7F116', 'A', 'n', 'na', 1202032818, 'upstream_part', 'FEM75051'];  ['FEM75051', 'A', 'C7F116', 'A', 'n', 'na', 1202032818, 'up_part_rev', 'A'];  ['FEM75051', 'A', 'C7F116', 'A', 'n', 'na', 1202032818, 'downstream_part', 'C7F116'];  ['FEM75051', 'A', 'C7F116', 'A', 'n', 'na', 1202032818, 'down_part_rev', 'A'];  ['FEM75051', 'A', 'C7F116', 'A', 'n', 'na', 1202032818, 'upstream_output_port', 'n'];  ['FEM75051', 'A', 'C7F116', 'A', 'n', 'na', 1202032818, 'downstream_input_port', 'na'];  ['FEM75051', 'A', 'C7F116', 'A', 'n', 'na', 1202032818, 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:12:00.742767  part_connect connection update-------------------
+
+--data
+	    C7F116:RI2A1E:eb:a  ['C7F116', 'A', 'RI2A1E', 'A', 'eb', 'a', 1202032818, 'upstream_part', 'C7F116'];  ['C7F116', 'A', 'RI2A1E', 'A', 'eb', 'a', 1202032818, 'up_part_rev', 'A'];  ['C7F116', 'A', 'RI2A1E', 'A', 'eb', 'a', 1202032818, 'downstream_part', 'RI2A1E'];  ['C7F116', 'A', 'RI2A1E', 'A', 'eb', 'a', 1202032818, 'down_part_rev', 'A'];  ['C7F116', 'A', 'RI2A1E', 'A', 'eb', 'a', 1202032818, 'upstream_output_port', 'eb'];  ['C7F116', 'A', 'RI2A1E', 'A', 'eb', 'a', 1202032818, 'downstream_input_port', 'a'];  ['C7F116', 'A', 'RI2A1E', 'A', 'eb', 'a', 1202032818, 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:12:02.517650  part_connect connection update-------------------
+
+--data
+	    C7F116:RI2A1N:nb:a  ['C7F116', 'A', 'RI2A1N', 'A', 'nb', 'a', 1202032818, 'upstream_part', 'C7F116'];  ['C7F116', 'A', 'RI2A1N', 'A', 'nb', 'a', 1202032818, 'up_part_rev', 'A'];  ['C7F116', 'A', 'RI2A1N', 'A', 'nb', 'a', 1202032818, 'downstream_part', 'RI2A1N'];  ['C7F116', 'A', 'RI2A1N', 'A', 'nb', 'a', 1202032818, 'down_part_rev', 'A'];  ['C7F116', 'A', 'RI2A1N', 'A', 'nb', 'a', 1202032818, 'upstream_output_port', 'nb'];  ['C7F116', 'A', 'RI2A1N', 'A', 'nb', 'a', 1202032818, 'downstream_input_port', 'a'];  ['C7F116', 'A', 'RI2A1N', 'A', 'nb', 'a', 1202032818, 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:12:04.366606  part_connect connection update-------------------
+
+--data
+	    RI2A2E:PAM75163:b:ea  ['RI2A2E', 'A', 'PAM75163', 'B', 'b', 'ea', 1202032818, 'upstream_part', 'RI2A2E'];  ['RI2A2E', 'A', 'PAM75163', 'B', 'b', 'ea', 1202032818, 'up_part_rev', 'A'];  ['RI2A2E', 'A', 'PAM75163', 'B', 'b', 'ea', 1202032818, 'downstream_part', 'PAM75163'];  ['RI2A2E', 'A', 'PAM75163', 'B', 'b', 'ea', 1202032818, 'down_part_rev', 'B'];  ['RI2A2E', 'A', 'PAM75163', 'B', 'b', 'ea', 1202032818, 'upstream_output_port', 'b'];  ['RI2A2E', 'A', 'PAM75163', 'B', 'b', 'ea', 1202032818, 'downstream_input_port', 'ea'];  ['RI2A2E', 'A', 'PAM75163', 'B', 'b', 'ea', 1202032818, 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:12:06.201234  part_connect connection update-------------------
+
+--data
+	    PAM75163:RO2A2E:eb:b  ['PAM75163', 'B', 'RO2A2E', 'A', 'eb', 'b', 1202032818, 'upstream_part', 'PAM75163'];  ['PAM75163', 'B', 'RO2A2E', 'A', 'eb', 'b', 1202032818, 'up_part_rev', 'B'];  ['PAM75163', 'B', 'RO2A2E', 'A', 'eb', 'b', 1202032818, 'downstream_part', 'RO2A2E'];  ['PAM75163', 'B', 'RO2A2E', 'A', 'eb', 'b', 1202032818, 'down_part_rev', 'A'];  ['PAM75163', 'B', 'RO2A2E', 'A', 'eb', 'b', 1202032818, 'upstream_output_port', 'eb'];  ['PAM75163', 'B', 'RO2A2E', 'A', 'eb', 'b', 1202032818, 'downstream_input_port', 'b'];  ['PAM75163', 'B', 'RO2A2E', 'A', 'eb', 'b', 1202032818, 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:12:08.084837  part_connect connection update-------------------
+
+--data
+	    RI2A2N:PAM75163:b:na  ['RI2A2N', 'A', 'PAM75163', 'B', 'b', 'na', 1202032818, 'upstream_part', 'RI2A2N'];  ['RI2A2N', 'A', 'PAM75163', 'B', 'b', 'na', 1202032818, 'up_part_rev', 'A'];  ['RI2A2N', 'A', 'PAM75163', 'B', 'b', 'na', 1202032818, 'downstream_part', 'PAM75163'];  ['RI2A2N', 'A', 'PAM75163', 'B', 'b', 'na', 1202032818, 'down_part_rev', 'B'];  ['RI2A2N', 'A', 'PAM75163', 'B', 'b', 'na', 1202032818, 'upstream_output_port', 'b'];  ['RI2A2N', 'A', 'PAM75163', 'B', 'b', 'na', 1202032818, 'downstream_input_port', 'na'];  ['RI2A2N', 'A', 'PAM75163', 'B', 'b', 'na', 1202032818, 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:12:09.938872  part_connect connection update-------------------
+
+--data
+	    PAM75163:RO2A2N:nb:b  ['PAM75163', 'B', 'RO2A2N', 'A', 'nb', 'b', 1202032818, 'upstream_part', 'PAM75163'];  ['PAM75163', 'B', 'RO2A2N', 'A', 'nb', 'b', 1202032818, 'up_part_rev', 'B'];  ['PAM75163', 'B', 'RO2A2N', 'A', 'nb', 'b', 1202032818, 'downstream_part', 'RO2A2N'];  ['PAM75163', 'B', 'RO2A2N', 'A', 'nb', 'b', 1202032818, 'down_part_rev', 'A'];  ['PAM75163', 'B', 'RO2A2N', 'A', 'nb', 'b', 1202032818, 'upstream_output_port', 'nb'];  ['PAM75163', 'B', 'RO2A2N', 'A', 'nb', 'b', 1202032818, 'downstream_input_port', 'b'];  ['PAM75163', 'B', 'RO2A2N', 'A', 'nb', 'b', 1202032818, 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:12:11.762177  add_station-------------------
+
+--args
+	from_file:  /home/obs/anaconda/envs/HERA/lib/python2.7/site-packages/hera_mc-0.1.dev0-py2.7.egg/hera_mc/data/HERA_350.txt;  add_new_part:  True;  add_new_geo:  True;  elevation:  1051.22;  verbosity:  h;  mc_db_name:  None;  datum:  WGS84;  tile:  34J;  time:  0.0;  easting:  540835.9;  mc_config_path:  /home/obs/.hera_mc/mc_config.json;  date:  now;  query:  False;  station_name:  HH155;  station_type_name:  herahex;  northing:  6601201.4;  
+
+-------------------2018-02-10 01:12:11.771598  geo_location update-------------------
+
+--data
+	    HH155  ['HH155', 'station_name', 'HH155'];  ['HH155', 'station_type_name', 'herahex'];  ['HH155', 'created_gpstime', 1202260349.7629561];  ['HH155', 'datum', 'WGS84'];  ['HH155', 'tile', '34J'];  ['HH155', 'northing', 6601201.4];  ['HH155', 'easting', 540835.9];  ['HH155', 'elevation', 1051.22];  
+
+-------------------2018-02-10 01:12:11.781833  part_connect part update-------------------
+
+--data
+	    HH155:A  ['HH155', 'A', 'hpn', 'HH155'];  ['HH155', 'A', 'hpn_rev', 'A'];  ['HH155', 'A', 'hptype', 'station'];  ['HH155', 'A', 'manufacturer_number', 'HH155'];  ['HH155', 'A', 'start_gpstime', 1202260349.772057];  
+
+-------------------2018-02-10 01:12:13.554674  part_connect part update-------------------
+
+--data
+	    A155:H  ['A155', 'H', 'hpn', 'A155'];  ['A155', 'H', 'hpn_rev', 'H'];  ['A155', 'H', 'hptype', 'antenna'];  ['A155', 'H', 'manufacturer_number', 'S/N75'];  ['A155', 'H', 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:12:15.331187  part_connect part update-------------------
+
+--data
+	    FDA62:B  ['FDA62', 'B', 'hpn', 'FDA62'];  ['FDA62', 'B', 'hpn_rev', 'B'];  ['FDA62', 'B', 'hptype', 'feed'];  ['FDA62', 'B', 'manufacturer_number', 'P62'];  ['FDA62', 'B', 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:12:17.115074  part_connect part update-------------------
+
+--data
+	    C7F155:A  ['C7F155', 'A', 'hpn', 'C7F155'];  ['C7F155', 'A', 'hpn_rev', 'A'];  ['C7F155', 'A', 'hptype', 'cable-feed75'];  ['C7F155', 'A', 'manufacturer_number', 'C7F155'];  ['C7F155', 'A', 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:12:18.911961  part_connect connection update-------------------
+
+--data
+	    HH155:A155:ground:ground  ['HH155', 'A', 'A155', 'H', 'ground', 'ground', 1202032818, 'upstream_part', 'HH155'];  ['HH155', 'A', 'A155', 'H', 'ground', 'ground', 1202032818, 'up_part_rev', 'A'];  ['HH155', 'A', 'A155', 'H', 'ground', 'ground', 1202032818, 'downstream_part', 'A155'];  ['HH155', 'A', 'A155', 'H', 'ground', 'ground', 1202032818, 'down_part_rev', 'H'];  ['HH155', 'A', 'A155', 'H', 'ground', 'ground', 1202032818, 'upstream_output_port', 'ground'];  ['HH155', 'A', 'A155', 'H', 'ground', 'ground', 1202032818, 'downstream_input_port', 'ground'];  ['HH155', 'A', 'A155', 'H', 'ground', 'ground', 1202032818, 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:12:20.711658  part_connect connection update-------------------
+
+--data
+	    A155:FDA62:focus:input  ['A155', 'H', 'FDA62', 'B', 'focus', 'input', 1202032818, 'upstream_part', 'A155'];  ['A155', 'H', 'FDA62', 'B', 'focus', 'input', 1202032818, 'up_part_rev', 'H'];  ['A155', 'H', 'FDA62', 'B', 'focus', 'input', 1202032818, 'downstream_part', 'FDA62'];  ['A155', 'H', 'FDA62', 'B', 'focus', 'input', 1202032818, 'down_part_rev', 'B'];  ['A155', 'H', 'FDA62', 'B', 'focus', 'input', 1202032818, 'upstream_output_port', 'focus'];  ['A155', 'H', 'FDA62', 'B', 'focus', 'input', 1202032818, 'downstream_input_port', 'input'];  ['A155', 'H', 'FDA62', 'B', 'focus', 'input', 1202032818, 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:12:22.586255  part_connect connection update-------------------
+
+--data
+	    FDA62:FEM75061:terminals:input  ['FDA62', 'B', 'FEM75061', 'A', 'terminals', 'input', 1202032818, 'upstream_part', 'FDA62'];  ['FDA62', 'B', 'FEM75061', 'A', 'terminals', 'input', 1202032818, 'up_part_rev', 'B'];  ['FDA62', 'B', 'FEM75061', 'A', 'terminals', 'input', 1202032818, 'downstream_part', 'FEM75061'];  ['FDA62', 'B', 'FEM75061', 'A', 'terminals', 'input', 1202032818, 'down_part_rev', 'A'];  ['FDA62', 'B', 'FEM75061', 'A', 'terminals', 'input', 1202032818, 'upstream_output_port', 'terminals'];  ['FDA62', 'B', 'FEM75061', 'A', 'terminals', 'input', 1202032818, 'downstream_input_port', 'input'];  ['FDA62', 'B', 'FEM75061', 'A', 'terminals', 'input', 1202032818, 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:12:24.395293  part_connect connection update-------------------
+
+--data
+	    FEM75061:C7F155:e:ea  ['FEM75061', 'A', 'C7F155', 'A', 'e', 'ea', 1202032818, 'upstream_part', 'FEM75061'];  ['FEM75061', 'A', 'C7F155', 'A', 'e', 'ea', 1202032818, 'up_part_rev', 'A'];  ['FEM75061', 'A', 'C7F155', 'A', 'e', 'ea', 1202032818, 'downstream_part', 'C7F155'];  ['FEM75061', 'A', 'C7F155', 'A', 'e', 'ea', 1202032818, 'down_part_rev', 'A'];  ['FEM75061', 'A', 'C7F155', 'A', 'e', 'ea', 1202032818, 'upstream_output_port', 'e'];  ['FEM75061', 'A', 'C7F155', 'A', 'e', 'ea', 1202032818, 'downstream_input_port', 'ea'];  ['FEM75061', 'A', 'C7F155', 'A', 'e', 'ea', 1202032818, 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:12:26.207841  part_connect connection update-------------------
+
+--data
+	    FEM75061:C7F155:n:na  ['FEM75061', 'A', 'C7F155', 'A', 'n', 'na', 1202032818, 'upstream_part', 'FEM75061'];  ['FEM75061', 'A', 'C7F155', 'A', 'n', 'na', 1202032818, 'up_part_rev', 'A'];  ['FEM75061', 'A', 'C7F155', 'A', 'n', 'na', 1202032818, 'downstream_part', 'C7F155'];  ['FEM75061', 'A', 'C7F155', 'A', 'n', 'na', 1202032818, 'down_part_rev', 'A'];  ['FEM75061', 'A', 'C7F155', 'A', 'n', 'na', 1202032818, 'upstream_output_port', 'n'];  ['FEM75061', 'A', 'C7F155', 'A', 'n', 'na', 1202032818, 'downstream_input_port', 'na'];  ['FEM75061', 'A', 'C7F155', 'A', 'n', 'na', 1202032818, 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:12:28.062559  part_connect connection update-------------------
+
+--data
+	    C7F155:RI2A2E:eb:a  ['C7F155', 'A', 'RI2A2E', 'A', 'eb', 'a', 1202032818, 'upstream_part', 'C7F155'];  ['C7F155', 'A', 'RI2A2E', 'A', 'eb', 'a', 1202032818, 'up_part_rev', 'A'];  ['C7F155', 'A', 'RI2A2E', 'A', 'eb', 'a', 1202032818, 'downstream_part', 'RI2A2E'];  ['C7F155', 'A', 'RI2A2E', 'A', 'eb', 'a', 1202032818, 'down_part_rev', 'A'];  ['C7F155', 'A', 'RI2A2E', 'A', 'eb', 'a', 1202032818, 'upstream_output_port', 'eb'];  ['C7F155', 'A', 'RI2A2E', 'A', 'eb', 'a', 1202032818, 'downstream_input_port', 'a'];  ['C7F155', 'A', 'RI2A2E', 'A', 'eb', 'a', 1202032818, 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:12:29.912870  part_connect connection update-------------------
+
+--data
+	    C7F155:RI2A2N:nb:a  ['C7F155', 'A', 'RI2A2N', 'A', 'nb', 'a', 1202032818, 'upstream_part', 'C7F155'];  ['C7F155', 'A', 'RI2A2N', 'A', 'nb', 'a', 1202032818, 'up_part_rev', 'A'];  ['C7F155', 'A', 'RI2A2N', 'A', 'nb', 'a', 1202032818, 'downstream_part', 'RI2A2N'];  ['C7F155', 'A', 'RI2A2N', 'A', 'nb', 'a', 1202032818, 'down_part_rev', 'A'];  ['C7F155', 'A', 'RI2A2N', 'A', 'nb', 'a', 1202032818, 'upstream_output_port', 'nb'];  ['C7F155', 'A', 'RI2A2N', 'A', 'nb', 'a', 1202032818, 'downstream_input_port', 'a'];  ['C7F155', 'A', 'RI2A2N', 'A', 'nb', 'a', 1202032818, 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:12:31.702208  part_connect connection update-------------------
+
+--data
+	    RI2A3E:PAM75162:b:ea  ['RI2A3E', 'A', 'PAM75162', 'B', 'b', 'ea', 1202032818, 'upstream_part', 'RI2A3E'];  ['RI2A3E', 'A', 'PAM75162', 'B', 'b', 'ea', 1202032818, 'up_part_rev', 'A'];  ['RI2A3E', 'A', 'PAM75162', 'B', 'b', 'ea', 1202032818, 'downstream_part', 'PAM75162'];  ['RI2A3E', 'A', 'PAM75162', 'B', 'b', 'ea', 1202032818, 'down_part_rev', 'B'];  ['RI2A3E', 'A', 'PAM75162', 'B', 'b', 'ea', 1202032818, 'upstream_output_port', 'b'];  ['RI2A3E', 'A', 'PAM75162', 'B', 'b', 'ea', 1202032818, 'downstream_input_port', 'ea'];  ['RI2A3E', 'A', 'PAM75162', 'B', 'b', 'ea', 1202032818, 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:12:33.482843  part_connect connection update-------------------
+
+--data
+	    PAM75162:RO2A3E:eb:b  ['PAM75162', 'B', 'RO2A3E', 'A', 'eb', 'b', 1202032818, 'upstream_part', 'PAM75162'];  ['PAM75162', 'B', 'RO2A3E', 'A', 'eb', 'b', 1202032818, 'up_part_rev', 'B'];  ['PAM75162', 'B', 'RO2A3E', 'A', 'eb', 'b', 1202032818, 'downstream_part', 'RO2A3E'];  ['PAM75162', 'B', 'RO2A3E', 'A', 'eb', 'b', 1202032818, 'down_part_rev', 'A'];  ['PAM75162', 'B', 'RO2A3E', 'A', 'eb', 'b', 1202032818, 'upstream_output_port', 'eb'];  ['PAM75162', 'B', 'RO2A3E', 'A', 'eb', 'b', 1202032818, 'downstream_input_port', 'b'];  ['PAM75162', 'B', 'RO2A3E', 'A', 'eb', 'b', 1202032818, 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:12:35.322424  part_connect connection update-------------------
+
+--data
+	    RI2A3N:PAM75162:b:na  ['RI2A3N', 'A', 'PAM75162', 'B', 'b', 'na', 1202032818, 'upstream_part', 'RI2A3N'];  ['RI2A3N', 'A', 'PAM75162', 'B', 'b', 'na', 1202032818, 'up_part_rev', 'A'];  ['RI2A3N', 'A', 'PAM75162', 'B', 'b', 'na', 1202032818, 'downstream_part', 'PAM75162'];  ['RI2A3N', 'A', 'PAM75162', 'B', 'b', 'na', 1202032818, 'down_part_rev', 'B'];  ['RI2A3N', 'A', 'PAM75162', 'B', 'b', 'na', 1202032818, 'upstream_output_port', 'b'];  ['RI2A3N', 'A', 'PAM75162', 'B', 'b', 'na', 1202032818, 'downstream_input_port', 'na'];  ['RI2A3N', 'A', 'PAM75162', 'B', 'b', 'na', 1202032818, 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:12:37.128188  part_connect connection update-------------------
+
+--data
+	    PAM75162:RO2A3N:nb:b  ['PAM75162', 'B', 'RO2A3N', 'A', 'nb', 'b', 1202032818, 'upstream_part', 'PAM75162'];  ['PAM75162', 'B', 'RO2A3N', 'A', 'nb', 'b', 1202032818, 'up_part_rev', 'B'];  ['PAM75162', 'B', 'RO2A3N', 'A', 'nb', 'b', 1202032818, 'downstream_part', 'RO2A3N'];  ['PAM75162', 'B', 'RO2A3N', 'A', 'nb', 'b', 1202032818, 'down_part_rev', 'A'];  ['PAM75162', 'B', 'RO2A3N', 'A', 'nb', 'b', 1202032818, 'upstream_output_port', 'nb'];  ['PAM75162', 'B', 'RO2A3N', 'A', 'nb', 'b', 1202032818, 'downstream_input_port', 'b'];  ['PAM75162', 'B', 'RO2A3N', 'A', 'nb', 'b', 1202032818, 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:12:38.894798  add_station-------------------
+
+--args
+	from_file:  /home/obs/anaconda/envs/HERA/lib/python2.7/site-packages/hera_mc-0.1.dev0-py2.7.egg/hera_mc/data/HERA_350.txt;  add_new_part:  True;  add_new_geo:  True;  elevation:  1051.28;  verbosity:  h;  mc_db_name:  None;  datum:  WGS84;  tile:  34J;  time:  0.0;  easting:  540850.5;  mc_config_path:  /home/obs/.hera_mc/mc_config.json;  date:  now;  query:  False;  station_name:  HH156;  station_type_name:  herahex;  northing:  6601201.4;  
+
+-------------------2018-02-10 01:12:38.904165  geo_location update-------------------
+
+--data
+	    HH156  ['HH156', 'station_name', 'HH156'];  ['HH156', 'station_type_name', 'herahex'];  ['HH156', 'created_gpstime', 1202260376.895567];  ['HH156', 'datum', 'WGS84'];  ['HH156', 'tile', '34J'];  ['HH156', 'northing', 6601201.4];  ['HH156', 'easting', 540850.5];  ['HH156', 'elevation', 1051.28];  
+
+-------------------2018-02-10 01:12:38.915539  part_connect part update-------------------
+
+--data
+	    HH156:A  ['HH156', 'A', 'hpn', 'HH156'];  ['HH156', 'A', 'hpn_rev', 'A'];  ['HH156', 'A', 'hptype', 'station'];  ['HH156', 'A', 'manufacturer_number', 'HH156'];  ['HH156', 'A', 'start_gpstime', 1202260376.904683];  
+
+-------------------2018-02-10 01:12:40.714034  part_connect part update-------------------
+
+--data
+	    A156:H  ['A156', 'H', 'hpn', 'A156'];  ['A156', 'H', 'hpn_rev', 'H'];  ['A156', 'H', 'hptype', 'antenna'];  ['A156', 'H', 'manufacturer_number', 'S/N76'];  ['A156', 'H', 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:12:42.454503  part_connect part update-------------------
+
+--data
+	    FDA63:B  ['FDA63', 'B', 'hpn', 'FDA63'];  ['FDA63', 'B', 'hpn_rev', 'B'];  ['FDA63', 'B', 'hptype', 'feed'];  ['FDA63', 'B', 'manufacturer_number', 'P63'];  ['FDA63', 'B', 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:12:44.243172  part_connect part update-------------------
+
+--data
+	    C7F156:A  ['C7F156', 'A', 'hpn', 'C7F156'];  ['C7F156', 'A', 'hpn_rev', 'A'];  ['C7F156', 'A', 'hptype', 'cable-feed75'];  ['C7F156', 'A', 'manufacturer_number', 'C7F156'];  ['C7F156', 'A', 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:12:46.078752  part_connect connection update-------------------
+
+--data
+	    HH156:A156:ground:ground  ['HH156', 'A', 'A156', 'H', 'ground', 'ground', 1202032818, 'upstream_part', 'HH156'];  ['HH156', 'A', 'A156', 'H', 'ground', 'ground', 1202032818, 'up_part_rev', 'A'];  ['HH156', 'A', 'A156', 'H', 'ground', 'ground', 1202032818, 'downstream_part', 'A156'];  ['HH156', 'A', 'A156', 'H', 'ground', 'ground', 1202032818, 'down_part_rev', 'H'];  ['HH156', 'A', 'A156', 'H', 'ground', 'ground', 1202032818, 'upstream_output_port', 'ground'];  ['HH156', 'A', 'A156', 'H', 'ground', 'ground', 1202032818, 'downstream_input_port', 'ground'];  ['HH156', 'A', 'A156', 'H', 'ground', 'ground', 1202032818, 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:12:47.875069  part_connect connection update-------------------
+
+--data
+	    A156:FDA63:focus:input  ['A156', 'H', 'FDA63', 'B', 'focus', 'input', 1202032818, 'upstream_part', 'A156'];  ['A156', 'H', 'FDA63', 'B', 'focus', 'input', 1202032818, 'up_part_rev', 'H'];  ['A156', 'H', 'FDA63', 'B', 'focus', 'input', 1202032818, 'downstream_part', 'FDA63'];  ['A156', 'H', 'FDA63', 'B', 'focus', 'input', 1202032818, 'down_part_rev', 'B'];  ['A156', 'H', 'FDA63', 'B', 'focus', 'input', 1202032818, 'upstream_output_port', 'focus'];  ['A156', 'H', 'FDA63', 'B', 'focus', 'input', 1202032818, 'downstream_input_port', 'input'];  ['A156', 'H', 'FDA63', 'B', 'focus', 'input', 1202032818, 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:12:49.728526  part_connect connection update-------------------
+
+--data
+	    FDA63:FEM75062:terminals:input  ['FDA63', 'B', 'FEM75062', 'A', 'terminals', 'input', 1202032818, 'upstream_part', 'FDA63'];  ['FDA63', 'B', 'FEM75062', 'A', 'terminals', 'input', 1202032818, 'up_part_rev', 'B'];  ['FDA63', 'B', 'FEM75062', 'A', 'terminals', 'input', 1202032818, 'downstream_part', 'FEM75062'];  ['FDA63', 'B', 'FEM75062', 'A', 'terminals', 'input', 1202032818, 'down_part_rev', 'A'];  ['FDA63', 'B', 'FEM75062', 'A', 'terminals', 'input', 1202032818, 'upstream_output_port', 'terminals'];  ['FDA63', 'B', 'FEM75062', 'A', 'terminals', 'input', 1202032818, 'downstream_input_port', 'input'];  ['FDA63', 'B', 'FEM75062', 'A', 'terminals', 'input', 1202032818, 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:12:51.592177  part_connect connection update-------------------
+
+--data
+	    FEM75062:C7F156:e:ea  ['FEM75062', 'A', 'C7F156', 'A', 'e', 'ea', 1202032818, 'upstream_part', 'FEM75062'];  ['FEM75062', 'A', 'C7F156', 'A', 'e', 'ea', 1202032818, 'up_part_rev', 'A'];  ['FEM75062', 'A', 'C7F156', 'A', 'e', 'ea', 1202032818, 'downstream_part', 'C7F156'];  ['FEM75062', 'A', 'C7F156', 'A', 'e', 'ea', 1202032818, 'down_part_rev', 'A'];  ['FEM75062', 'A', 'C7F156', 'A', 'e', 'ea', 1202032818, 'upstream_output_port', 'e'];  ['FEM75062', 'A', 'C7F156', 'A', 'e', 'ea', 1202032818, 'downstream_input_port', 'ea'];  ['FEM75062', 'A', 'C7F156', 'A', 'e', 'ea', 1202032818, 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:12:53.416168  part_connect connection update-------------------
+
+--data
+	    FEM75062:C7F156:n:na  ['FEM75062', 'A', 'C7F156', 'A', 'n', 'na', 1202032818, 'upstream_part', 'FEM75062'];  ['FEM75062', 'A', 'C7F156', 'A', 'n', 'na', 1202032818, 'up_part_rev', 'A'];  ['FEM75062', 'A', 'C7F156', 'A', 'n', 'na', 1202032818, 'downstream_part', 'C7F156'];  ['FEM75062', 'A', 'C7F156', 'A', 'n', 'na', 1202032818, 'down_part_rev', 'A'];  ['FEM75062', 'A', 'C7F156', 'A', 'n', 'na', 1202032818, 'upstream_output_port', 'n'];  ['FEM75062', 'A', 'C7F156', 'A', 'n', 'na', 1202032818, 'downstream_input_port', 'na'];  ['FEM75062', 'A', 'C7F156', 'A', 'n', 'na', 1202032818, 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:12:55.254239  part_connect connection update-------------------
+
+--data
+	    C7F156:RI2A3E:eb:a  ['C7F156', 'A', 'RI2A3E', 'A', 'eb', 'a', 1202032818, 'upstream_part', 'C7F156'];  ['C7F156', 'A', 'RI2A3E', 'A', 'eb', 'a', 1202032818, 'up_part_rev', 'A'];  ['C7F156', 'A', 'RI2A3E', 'A', 'eb', 'a', 1202032818, 'downstream_part', 'RI2A3E'];  ['C7F156', 'A', 'RI2A3E', 'A', 'eb', 'a', 1202032818, 'down_part_rev', 'A'];  ['C7F156', 'A', 'RI2A3E', 'A', 'eb', 'a', 1202032818, 'upstream_output_port', 'eb'];  ['C7F156', 'A', 'RI2A3E', 'A', 'eb', 'a', 1202032818, 'downstream_input_port', 'a'];  ['C7F156', 'A', 'RI2A3E', 'A', 'eb', 'a', 1202032818, 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:12:57.085448  part_connect connection update-------------------
+
+--data
+	    C7F156:RI2A3N:nb:a  ['C7F156', 'A', 'RI2A3N', 'A', 'nb', 'a', 1202032818, 'upstream_part', 'C7F156'];  ['C7F156', 'A', 'RI2A3N', 'A', 'nb', 'a', 1202032818, 'up_part_rev', 'A'];  ['C7F156', 'A', 'RI2A3N', 'A', 'nb', 'a', 1202032818, 'downstream_part', 'RI2A3N'];  ['C7F156', 'A', 'RI2A3N', 'A', 'nb', 'a', 1202032818, 'down_part_rev', 'A'];  ['C7F156', 'A', 'RI2A3N', 'A', 'nb', 'a', 1202032818, 'upstream_output_port', 'nb'];  ['C7F156', 'A', 'RI2A3N', 'A', 'nb', 'a', 1202032818, 'downstream_input_port', 'a'];  ['C7F156', 'A', 'RI2A3N', 'A', 'nb', 'a', 1202032818, 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:12:58.865463  add_station-------------------
+
+--args
+	from_file:  /home/obs/anaconda/envs/HERA/lib/python2.7/site-packages/hera_mc-0.1.dev0-py2.7.egg/hera_mc/data/HERA_350.txt;  add_new_part:  True;  add_new_geo:  True;  elevation:  1053.08;  verbosity:  h;  mc_db_name:  None;  datum:  WGS84;  tile:  34J;  time:  0.0;  easting:  540762.9;  mc_config_path:  /home/obs/.hera_mc/mc_config.json;  date:  now;  query:  False;  station_name:  HA330;  station_type_name:  herahex;  northing:  6601032.81;  
+
+-------------------2018-02-10 01:12:58.875023  geo_location update-------------------
+
+--data
+	    HA330  ['HA330', 'station_name', 'HA330'];  ['HA330', 'station_type_name', 'herahex'];  ['HA330', 'created_gpstime', 1202260396.866259];  ['HA330', 'datum', 'WGS84'];  ['HA330', 'tile', '34J'];  ['HA330', 'northing', 6601032.81];  ['HA330', 'easting', 540762.9];  ['HA330', 'elevation', 1053.08];  
+
+-------------------2018-02-10 01:12:58.884961  part_connect part update-------------------
+
+--data
+	    HA330:A  ['HA330', 'A', 'hpn', 'HA330'];  ['HA330', 'A', 'hpn_rev', 'A'];  ['HA330', 'A', 'hptype', 'station'];  ['HA330', 'A', 'manufacturer_number', 'HA330'];  ['HA330', 'A', 'start_gpstime', 1202260396.875502];  
+
+-------------------2018-02-10 01:13:00.705686  part_connect part update-------------------
+
+--data
+	    A330:H  ['A330', 'H', 'hpn', 'A330'];  ['A330', 'H', 'hpn_rev', 'H'];  ['A330', 'H', 'hptype', 'antenna'];  ['A330', 'H', 'manufacturer_number', 'S/N77'];  ['A330', 'H', 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:13:02.471993  part_connect part update-------------------
+
+--data
+	    FDA66:B  ['FDA66', 'B', 'hpn', 'FDA66'];  ['FDA66', 'B', 'hpn_rev', 'B'];  ['FDA66', 'B', 'hptype', 'feed'];  ['FDA66', 'B', 'manufacturer_number', 'P66'];  ['FDA66', 'B', 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:13:04.286798  part_connect part update-------------------
+
+--data
+	    C7F330:A  ['C7F330', 'A', 'hpn', 'C7F330'];  ['C7F330', 'A', 'hpn_rev', 'A'];  ['C7F330', 'A', 'hptype', 'cable-feed75'];  ['C7F330', 'A', 'manufacturer_number', 'C7F330'];  ['C7F330', 'A', 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:13:06.120904  part_connect connection update-------------------
+
+--data
+	    HA330:A330:ground:ground  ['HA330', 'A', 'A330', 'H', 'ground', 'ground', 1202032818, 'upstream_part', 'HA330'];  ['HA330', 'A', 'A330', 'H', 'ground', 'ground', 1202032818, 'up_part_rev', 'A'];  ['HA330', 'A', 'A330', 'H', 'ground', 'ground', 1202032818, 'downstream_part', 'A330'];  ['HA330', 'A', 'A330', 'H', 'ground', 'ground', 1202032818, 'down_part_rev', 'H'];  ['HA330', 'A', 'A330', 'H', 'ground', 'ground', 1202032818, 'upstream_output_port', 'ground'];  ['HA330', 'A', 'A330', 'H', 'ground', 'ground', 1202032818, 'downstream_input_port', 'ground'];  ['HA330', 'A', 'A330', 'H', 'ground', 'ground', 1202032818, 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:13:07.927296  part_connect connection update-------------------
+
+--data
+	    A330:FDA66:focus:input  ['A330', 'H', 'FDA66', 'B', 'focus', 'input', 1202032818, 'upstream_part', 'A330'];  ['A330', 'H', 'FDA66', 'B', 'focus', 'input', 1202032818, 'up_part_rev', 'H'];  ['A330', 'H', 'FDA66', 'B', 'focus', 'input', 1202032818, 'downstream_part', 'FDA66'];  ['A330', 'H', 'FDA66', 'B', 'focus', 'input', 1202032818, 'down_part_rev', 'B'];  ['A330', 'H', 'FDA66', 'B', 'focus', 'input', 1202032818, 'upstream_output_port', 'focus'];  ['A330', 'H', 'FDA66', 'B', 'focus', 'input', 1202032818, 'downstream_input_port', 'input'];  ['A330', 'H', 'FDA66', 'B', 'focus', 'input', 1202032818, 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:13:09.731522  part_connect connection update-------------------
+
+--data
+	    RI2A4E:PAM75161:b:ea  ['RI2A4E', 'A', 'PAM75161', 'B', 'b', 'ea', 1202032818, 'upstream_part', 'RI2A4E'];  ['RI2A4E', 'A', 'PAM75161', 'B', 'b', 'ea', 1202032818, 'up_part_rev', 'A'];  ['RI2A4E', 'A', 'PAM75161', 'B', 'b', 'ea', 1202032818, 'downstream_part', 'PAM75161'];  ['RI2A4E', 'A', 'PAM75161', 'B', 'b', 'ea', 1202032818, 'down_part_rev', 'B'];  ['RI2A4E', 'A', 'PAM75161', 'B', 'b', 'ea', 1202032818, 'upstream_output_port', 'b'];  ['RI2A4E', 'A', 'PAM75161', 'B', 'b', 'ea', 1202032818, 'downstream_input_port', 'ea'];  ['RI2A4E', 'A', 'PAM75161', 'B', 'b', 'ea', 1202032818, 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:13:11.512632  part_connect connection update-------------------
+
+--data
+	    PAM75161:RO2A4E:eb:b  ['PAM75161', 'B', 'RO2A4E', 'A', 'eb', 'b', 1202032818, 'upstream_part', 'PAM75161'];  ['PAM75161', 'B', 'RO2A4E', 'A', 'eb', 'b', 1202032818, 'up_part_rev', 'B'];  ['PAM75161', 'B', 'RO2A4E', 'A', 'eb', 'b', 1202032818, 'downstream_part', 'RO2A4E'];  ['PAM75161', 'B', 'RO2A4E', 'A', 'eb', 'b', 1202032818, 'down_part_rev', 'A'];  ['PAM75161', 'B', 'RO2A4E', 'A', 'eb', 'b', 1202032818, 'upstream_output_port', 'eb'];  ['PAM75161', 'B', 'RO2A4E', 'A', 'eb', 'b', 1202032818, 'downstream_input_port', 'b'];  ['PAM75161', 'B', 'RO2A4E', 'A', 'eb', 'b', 1202032818, 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:13:13.320086  part_connect connection update-------------------
+
+--data
+	    RI2A4N:PAM75161:b:na  ['RI2A4N', 'A', 'PAM75161', 'B', 'b', 'na', 1202032818, 'upstream_part', 'RI2A4N'];  ['RI2A4N', 'A', 'PAM75161', 'B', 'b', 'na', 1202032818, 'up_part_rev', 'A'];  ['RI2A4N', 'A', 'PAM75161', 'B', 'b', 'na', 1202032818, 'downstream_part', 'PAM75161'];  ['RI2A4N', 'A', 'PAM75161', 'B', 'b', 'na', 1202032818, 'down_part_rev', 'B'];  ['RI2A4N', 'A', 'PAM75161', 'B', 'b', 'na', 1202032818, 'upstream_output_port', 'b'];  ['RI2A4N', 'A', 'PAM75161', 'B', 'b', 'na', 1202032818, 'downstream_input_port', 'na'];  ['RI2A4N', 'A', 'PAM75161', 'B', 'b', 'na', 1202032818, 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:13:15.130435  part_connect connection update-------------------
+
+--data
+	    PAM75161:RO2A4N:nb:b  ['PAM75161', 'B', 'RO2A4N', 'A', 'nb', 'b', 1202032818, 'upstream_part', 'PAM75161'];  ['PAM75161', 'B', 'RO2A4N', 'A', 'nb', 'b', 1202032818, 'up_part_rev', 'B'];  ['PAM75161', 'B', 'RO2A4N', 'A', 'nb', 'b', 1202032818, 'downstream_part', 'RO2A4N'];  ['PAM75161', 'B', 'RO2A4N', 'A', 'nb', 'b', 1202032818, 'down_part_rev', 'A'];  ['PAM75161', 'B', 'RO2A4N', 'A', 'nb', 'b', 1202032818, 'upstream_output_port', 'nb'];  ['PAM75161', 'B', 'RO2A4N', 'A', 'nb', 'b', 1202032818, 'downstream_input_port', 'b'];  ['PAM75161', 'B', 'RO2A4N', 'A', 'nb', 'b', 1202032818, 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:13:16.928856  add_station-------------------
+
+--args
+	from_file:  /home/obs/anaconda/envs/HERA/lib/python2.7/site-packages/hera_mc-0.1.dev0-py2.7.egg/hera_mc/data/HERA_350.txt;  add_new_part:  True;  add_new_geo:  True;  elevation:  1051.58;  verbosity:  h;  mc_db_name:  None;  datum:  WGS84;  tile:  34J;  time:  0.0;  easting:  540689.9;  mc_config_path:  /home/obs/.hera_mc/mc_config.json;  date:  now;  query:  False;  station_name:  HA334;  station_type_name:  herahex;  northing:  6601159.25;  
+
+-------------------2018-02-10 01:13:16.938257  geo_location update-------------------
+
+--data
+	    HA334  ['HA334', 'station_name', 'HA334'];  ['HA334', 'station_type_name', 'herahex'];  ['HA334', 'created_gpstime', 1202260414.929642];  ['HA334', 'datum', 'WGS84'];  ['HA334', 'tile', '34J'];  ['HA334', 'northing', 6601159.25];  ['HA334', 'easting', 540689.9];  ['HA334', 'elevation', 1051.58];  
+
+-------------------2018-02-10 01:13:16.948341  part_connect part update-------------------
+
+--data
+	    HA334:A  ['HA334', 'A', 'hpn', 'HA334'];  ['HA334', 'A', 'hpn_rev', 'A'];  ['HA334', 'A', 'hptype', 'station'];  ['HA334', 'A', 'manufacturer_number', 'HA334'];  ['HA334', 'A', 'start_gpstime', 1202260414.938713];  
+
+-------------------2018-02-10 01:13:18.726010  part_connect part update-------------------
+
+--data
+	    A334:H  ['A334', 'H', 'hpn', 'A334'];  ['A334', 'H', 'hpn_rev', 'H'];  ['A334', 'H', 'hptype', 'antenna'];  ['A334', 'H', 'manufacturer_number', 'S/N78'];  ['A334', 'H', 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:13:20.510738  part_connect part update-------------------
+
+--data
+	    FDA67:B  ['FDA67', 'B', 'hpn', 'FDA67'];  ['FDA67', 'B', 'hpn_rev', 'B'];  ['FDA67', 'B', 'hptype', 'feed'];  ['FDA67', 'B', 'manufacturer_number', 'P67'];  ['FDA67', 'B', 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:13:22.320470  part_connect part update-------------------
+
+--data
+	    C7F334:A  ['C7F334', 'A', 'hpn', 'C7F334'];  ['C7F334', 'A', 'hpn_rev', 'A'];  ['C7F334', 'A', 'hptype', 'cable-feed75'];  ['C7F334', 'A', 'manufacturer_number', 'C7F334'];  ['C7F334', 'A', 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:13:24.147556  part_connect connection update-------------------
+
+--data
+	    HA334:A334:ground:ground  ['HA334', 'A', 'A334', 'H', 'ground', 'ground', 1202032818, 'upstream_part', 'HA334'];  ['HA334', 'A', 'A334', 'H', 'ground', 'ground', 1202032818, 'up_part_rev', 'A'];  ['HA334', 'A', 'A334', 'H', 'ground', 'ground', 1202032818, 'downstream_part', 'A334'];  ['HA334', 'A', 'A334', 'H', 'ground', 'ground', 1202032818, 'down_part_rev', 'H'];  ['HA334', 'A', 'A334', 'H', 'ground', 'ground', 1202032818, 'upstream_output_port', 'ground'];  ['HA334', 'A', 'A334', 'H', 'ground', 'ground', 1202032818, 'downstream_input_port', 'ground'];  ['HA334', 'A', 'A334', 'H', 'ground', 'ground', 1202032818, 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:13:25.938744  part_connect connection update-------------------
+
+--data
+	    A334:FDA67:focus:input  ['A334', 'H', 'FDA67', 'B', 'focus', 'input', 1202032818, 'upstream_part', 'A334'];  ['A334', 'H', 'FDA67', 'B', 'focus', 'input', 1202032818, 'up_part_rev', 'H'];  ['A334', 'H', 'FDA67', 'B', 'focus', 'input', 1202032818, 'downstream_part', 'FDA67'];  ['A334', 'H', 'FDA67', 'B', 'focus', 'input', 1202032818, 'down_part_rev', 'B'];  ['A334', 'H', 'FDA67', 'B', 'focus', 'input', 1202032818, 'upstream_output_port', 'focus'];  ['A334', 'H', 'FDA67', 'B', 'focus', 'input', 1202032818, 'downstream_input_port', 'input'];  ['A334', 'H', 'FDA67', 'B', 'focus', 'input', 1202032818, 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:13:27.735676  part_connect connection update-------------------
+
+--data
+	    FDA67:FEM75063:terminals:input  ['FDA67', 'B', 'FEM75063', 'A', 'terminals', 'input', 1202032818, 'upstream_part', 'FDA67'];  ['FDA67', 'B', 'FEM75063', 'A', 'terminals', 'input', 1202032818, 'up_part_rev', 'B'];  ['FDA67', 'B', 'FEM75063', 'A', 'terminals', 'input', 1202032818, 'downstream_part', 'FEM75063'];  ['FDA67', 'B', 'FEM75063', 'A', 'terminals', 'input', 1202032818, 'down_part_rev', 'A'];  ['FDA67', 'B', 'FEM75063', 'A', 'terminals', 'input', 1202032818, 'upstream_output_port', 'terminals'];  ['FDA67', 'B', 'FEM75063', 'A', 'terminals', 'input', 1202032818, 'downstream_input_port', 'input'];  ['FDA67', 'B', 'FEM75063', 'A', 'terminals', 'input', 1202032818, 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:13:29.521669  part_connect connection update-------------------
+
+--data
+	    FEM75063:C7F334:e:ea  ['FEM75063', 'A', 'C7F334', 'A', 'e', 'ea', 1202032818, 'upstream_part', 'FEM75063'];  ['FEM75063', 'A', 'C7F334', 'A', 'e', 'ea', 1202032818, 'up_part_rev', 'A'];  ['FEM75063', 'A', 'C7F334', 'A', 'e', 'ea', 1202032818, 'downstream_part', 'C7F334'];  ['FEM75063', 'A', 'C7F334', 'A', 'e', 'ea', 1202032818, 'down_part_rev', 'A'];  ['FEM75063', 'A', 'C7F334', 'A', 'e', 'ea', 1202032818, 'upstream_output_port', 'e'];  ['FEM75063', 'A', 'C7F334', 'A', 'e', 'ea', 1202032818, 'downstream_input_port', 'ea'];  ['FEM75063', 'A', 'C7F334', 'A', 'e', 'ea', 1202032818, 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:13:31.330229  part_connect connection update-------------------
+
+--data
+	    FEM75063:C7F334:n:na  ['FEM75063', 'A', 'C7F334', 'A', 'n', 'na', 1202032818, 'upstream_part', 'FEM75063'];  ['FEM75063', 'A', 'C7F334', 'A', 'n', 'na', 1202032818, 'up_part_rev', 'A'];  ['FEM75063', 'A', 'C7F334', 'A', 'n', 'na', 1202032818, 'downstream_part', 'C7F334'];  ['FEM75063', 'A', 'C7F334', 'A', 'n', 'na', 1202032818, 'down_part_rev', 'A'];  ['FEM75063', 'A', 'C7F334', 'A', 'n', 'na', 1202032818, 'upstream_output_port', 'n'];  ['FEM75063', 'A', 'C7F334', 'A', 'n', 'na', 1202032818, 'downstream_input_port', 'na'];  ['FEM75063', 'A', 'C7F334', 'A', 'n', 'na', 1202032818, 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:13:33.166122  part_connect connection update-------------------
+
+--data
+	    C7F334:RI2A4E:eb:a  ['C7F334', 'A', 'RI2A4E', 'A', 'eb', 'a', 1202032818, 'upstream_part', 'C7F334'];  ['C7F334', 'A', 'RI2A4E', 'A', 'eb', 'a', 1202032818, 'up_part_rev', 'A'];  ['C7F334', 'A', 'RI2A4E', 'A', 'eb', 'a', 1202032818, 'downstream_part', 'RI2A4E'];  ['C7F334', 'A', 'RI2A4E', 'A', 'eb', 'a', 1202032818, 'down_part_rev', 'A'];  ['C7F334', 'A', 'RI2A4E', 'A', 'eb', 'a', 1202032818, 'upstream_output_port', 'eb'];  ['C7F334', 'A', 'RI2A4E', 'A', 'eb', 'a', 1202032818, 'downstream_input_port', 'a'];  ['C7F334', 'A', 'RI2A4E', 'A', 'eb', 'a', 1202032818, 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:13:35.006994  part_connect connection update-------------------
+
+--data
+	    C7F334:RI2A4N:nb:a  ['C7F334', 'A', 'RI2A4N', 'A', 'nb', 'a', 1202032818, 'upstream_part', 'C7F334'];  ['C7F334', 'A', 'RI2A4N', 'A', 'nb', 'a', 1202032818, 'up_part_rev', 'A'];  ['C7F334', 'A', 'RI2A4N', 'A', 'nb', 'a', 1202032818, 'downstream_part', 'RI2A4N'];  ['C7F334', 'A', 'RI2A4N', 'A', 'nb', 'a', 1202032818, 'down_part_rev', 'A'];  ['C7F334', 'A', 'RI2A4N', 'A', 'nb', 'a', 1202032818, 'upstream_output_port', 'nb'];  ['C7F334', 'A', 'RI2A4N', 'A', 'nb', 'a', 1202032818, 'downstream_input_port', 'a'];  ['C7F334', 'A', 'RI2A4N', 'A', 'nb', 'a', 1202032818, 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:13:36.882768  part_connect connection update-------------------
+
+--data
+	    RI2A5E:PAM75160:b:ea  ['RI2A5E', 'A', 'PAM75160', 'B', 'b', 'ea', 1202032818, 'upstream_part', 'RI2A5E'];  ['RI2A5E', 'A', 'PAM75160', 'B', 'b', 'ea', 1202032818, 'up_part_rev', 'A'];  ['RI2A5E', 'A', 'PAM75160', 'B', 'b', 'ea', 1202032818, 'downstream_part', 'PAM75160'];  ['RI2A5E', 'A', 'PAM75160', 'B', 'b', 'ea', 1202032818, 'down_part_rev', 'B'];  ['RI2A5E', 'A', 'PAM75160', 'B', 'b', 'ea', 1202032818, 'upstream_output_port', 'b'];  ['RI2A5E', 'A', 'PAM75160', 'B', 'b', 'ea', 1202032818, 'downstream_input_port', 'ea'];  ['RI2A5E', 'A', 'PAM75160', 'B', 'b', 'ea', 1202032818, 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:13:38.692423  part_connect connection update-------------------
+
+--data
+	    PAM75160:RO2A5E:eb:b  ['PAM75160', 'B', 'RO2A5E', 'A', 'eb', 'b', 1202032818, 'upstream_part', 'PAM75160'];  ['PAM75160', 'B', 'RO2A5E', 'A', 'eb', 'b', 1202032818, 'up_part_rev', 'B'];  ['PAM75160', 'B', 'RO2A5E', 'A', 'eb', 'b', 1202032818, 'downstream_part', 'RO2A5E'];  ['PAM75160', 'B', 'RO2A5E', 'A', 'eb', 'b', 1202032818, 'down_part_rev', 'A'];  ['PAM75160', 'B', 'RO2A5E', 'A', 'eb', 'b', 1202032818, 'upstream_output_port', 'eb'];  ['PAM75160', 'B', 'RO2A5E', 'A', 'eb', 'b', 1202032818, 'downstream_input_port', 'b'];  ['PAM75160', 'B', 'RO2A5E', 'A', 'eb', 'b', 1202032818, 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:13:40.517260  part_connect connection update-------------------
+
+--data
+	    RI2A5N:PAM75160:b:na  ['RI2A5N', 'A', 'PAM75160', 'B', 'b', 'na', 1202032818, 'upstream_part', 'RI2A5N'];  ['RI2A5N', 'A', 'PAM75160', 'B', 'b', 'na', 1202032818, 'up_part_rev', 'A'];  ['RI2A5N', 'A', 'PAM75160', 'B', 'b', 'na', 1202032818, 'downstream_part', 'PAM75160'];  ['RI2A5N', 'A', 'PAM75160', 'B', 'b', 'na', 1202032818, 'down_part_rev', 'B'];  ['RI2A5N', 'A', 'PAM75160', 'B', 'b', 'na', 1202032818, 'upstream_output_port', 'b'];  ['RI2A5N', 'A', 'PAM75160', 'B', 'b', 'na', 1202032818, 'downstream_input_port', 'na'];  ['RI2A5N', 'A', 'PAM75160', 'B', 'b', 'na', 1202032818, 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:13:42.330606  part_connect connection update-------------------
+
+--data
+	    PAM75160:RO2A5N:nb:b  ['PAM75160', 'B', 'RO2A5N', 'A', 'nb', 'b', 1202032818, 'upstream_part', 'PAM75160'];  ['PAM75160', 'B', 'RO2A5N', 'A', 'nb', 'b', 1202032818, 'up_part_rev', 'B'];  ['PAM75160', 'B', 'RO2A5N', 'A', 'nb', 'b', 1202032818, 'downstream_part', 'RO2A5N'];  ['PAM75160', 'B', 'RO2A5N', 'A', 'nb', 'b', 1202032818, 'down_part_rev', 'A'];  ['PAM75160', 'B', 'RO2A5N', 'A', 'nb', 'b', 1202032818, 'upstream_output_port', 'nb'];  ['PAM75160', 'B', 'RO2A5N', 'A', 'nb', 'b', 1202032818, 'downstream_input_port', 'b'];  ['PAM75160', 'B', 'RO2A5N', 'A', 'nb', 'b', 1202032818, 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:13:44.090906  add_station-------------------
+
+--args
+	from_file:  /home/obs/anaconda/envs/HERA/lib/python2.7/site-packages/hera_mc-0.1.dev0-py2.7.egg/hera_mc/data/HERA_350.txt;  add_new_part:  True;  add_new_geo:  True;  elevation:  1050.38;  verbosity:  h;  mc_db_name:  None;  datum:  WGS84;  tile:  34J;  time:  0.0;  easting:  540762.9;  mc_config_path:  /home/obs/.hera_mc/mc_config.json;  date:  now;  query:  False;  station_name:  HA338;  station_type_name:  herahex;  northing:  6601285.69;  
+
+-------------------2018-02-10 01:13:44.100452  geo_location update-------------------
+
+--data
+	    HA338  ['HA338', 'station_name', 'HA338'];  ['HA338', 'station_type_name', 'herahex'];  ['HA338', 'created_gpstime', 1202260442.091695];  ['HA338', 'datum', 'WGS84'];  ['HA338', 'tile', '34J'];  ['HA338', 'northing', 6601285.69];  ['HA338', 'easting', 540762.9];  ['HA338', 'elevation', 1050.38];  
+
+-------------------2018-02-10 01:13:44.110206  part_connect part update-------------------
+
+--data
+	    HA338:A  ['HA338', 'A', 'hpn', 'HA338'];  ['HA338', 'A', 'hpn_rev', 'A'];  ['HA338', 'A', 'hptype', 'station'];  ['HA338', 'A', 'manufacturer_number', 'HA338'];  ['HA338', 'A', 'start_gpstime', 1202260442.100918];  
+
+-------------------2018-02-10 01:13:45.853628  part_connect part update-------------------
+
+--data
+	    A338:H  ['A338', 'H', 'hpn', 'A338'];  ['A338', 'H', 'hpn_rev', 'H'];  ['A338', 'H', 'hptype', 'antenna'];  ['A338', 'H', 'manufacturer_number', 'S/N79'];  ['A338', 'H', 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:13:47.626374  part_connect part update-------------------
+
+--data
+	    FDA68:B  ['FDA68', 'B', 'hpn', 'FDA68'];  ['FDA68', 'B', 'hpn_rev', 'B'];  ['FDA68', 'B', 'hptype', 'feed'];  ['FDA68', 'B', 'manufacturer_number', 'P68'];  ['FDA68', 'B', 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:13:49.445855  part_connect part update-------------------
+
+--data
+	    C7F338:A  ['C7F338', 'A', 'hpn', 'C7F338'];  ['C7F338', 'A', 'hpn_rev', 'A'];  ['C7F338', 'A', 'hptype', 'cable-feed75'];  ['C7F338', 'A', 'manufacturer_number', 'C7F338'];  ['C7F338', 'A', 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:13:51.270992  part_connect connection update-------------------
+
+--data
+	    HA338:A338:ground:ground  ['HA338', 'A', 'A338', 'H', 'ground', 'ground', 1202032818, 'upstream_part', 'HA338'];  ['HA338', 'A', 'A338', 'H', 'ground', 'ground', 1202032818, 'up_part_rev', 'A'];  ['HA338', 'A', 'A338', 'H', 'ground', 'ground', 1202032818, 'downstream_part', 'A338'];  ['HA338', 'A', 'A338', 'H', 'ground', 'ground', 1202032818, 'down_part_rev', 'H'];  ['HA338', 'A', 'A338', 'H', 'ground', 'ground', 1202032818, 'upstream_output_port', 'ground'];  ['HA338', 'A', 'A338', 'H', 'ground', 'ground', 1202032818, 'downstream_input_port', 'ground'];  ['HA338', 'A', 'A338', 'H', 'ground', 'ground', 1202032818, 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:13:53.099452  part_connect connection update-------------------
+
+--data
+	    A338:FDA68:focus:input  ['A338', 'H', 'FDA68', 'B', 'focus', 'input', 1202032818, 'upstream_part', 'A338'];  ['A338', 'H', 'FDA68', 'B', 'focus', 'input', 1202032818, 'up_part_rev', 'H'];  ['A338', 'H', 'FDA68', 'B', 'focus', 'input', 1202032818, 'downstream_part', 'FDA68'];  ['A338', 'H', 'FDA68', 'B', 'focus', 'input', 1202032818, 'down_part_rev', 'B'];  ['A338', 'H', 'FDA68', 'B', 'focus', 'input', 1202032818, 'upstream_output_port', 'focus'];  ['A338', 'H', 'FDA68', 'B', 'focus', 'input', 1202032818, 'downstream_input_port', 'input'];  ['A338', 'H', 'FDA68', 'B', 'focus', 'input', 1202032818, 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:13:54.971604  part_connect connection update-------------------
+
+--data
+	    FDA68:FEM75068:terminals:input  ['FDA68', 'B', 'FEM75068', 'A', 'terminals', 'input', 1202032818, 'upstream_part', 'FDA68'];  ['FDA68', 'B', 'FEM75068', 'A', 'terminals', 'input', 1202032818, 'up_part_rev', 'B'];  ['FDA68', 'B', 'FEM75068', 'A', 'terminals', 'input', 1202032818, 'downstream_part', 'FEM75068'];  ['FDA68', 'B', 'FEM75068', 'A', 'terminals', 'input', 1202032818, 'down_part_rev', 'A'];  ['FDA68', 'B', 'FEM75068', 'A', 'terminals', 'input', 1202032818, 'upstream_output_port', 'terminals'];  ['FDA68', 'B', 'FEM75068', 'A', 'terminals', 'input', 1202032818, 'downstream_input_port', 'input'];  ['FDA68', 'B', 'FEM75068', 'A', 'terminals', 'input', 1202032818, 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:13:56.826417  part_connect connection update-------------------
+
+--data
+	    FEM75068:C7F338:e:ea  ['FEM75068', 'A', 'C7F338', 'A', 'e', 'ea', 1202032818, 'upstream_part', 'FEM75068'];  ['FEM75068', 'A', 'C7F338', 'A', 'e', 'ea', 1202032818, 'up_part_rev', 'A'];  ['FEM75068', 'A', 'C7F338', 'A', 'e', 'ea', 1202032818, 'downstream_part', 'C7F338'];  ['FEM75068', 'A', 'C7F338', 'A', 'e', 'ea', 1202032818, 'down_part_rev', 'A'];  ['FEM75068', 'A', 'C7F338', 'A', 'e', 'ea', 1202032818, 'upstream_output_port', 'e'];  ['FEM75068', 'A', 'C7F338', 'A', 'e', 'ea', 1202032818, 'downstream_input_port', 'ea'];  ['FEM75068', 'A', 'C7F338', 'A', 'e', 'ea', 1202032818, 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:13:58.632400  part_connect connection update-------------------
+
+--data
+	    FEM75068:C7F338:n:na  ['FEM75068', 'A', 'C7F338', 'A', 'n', 'na', 1202032818, 'upstream_part', 'FEM75068'];  ['FEM75068', 'A', 'C7F338', 'A', 'n', 'na', 1202032818, 'up_part_rev', 'A'];  ['FEM75068', 'A', 'C7F338', 'A', 'n', 'na', 1202032818, 'downstream_part', 'C7F338'];  ['FEM75068', 'A', 'C7F338', 'A', 'n', 'na', 1202032818, 'down_part_rev', 'A'];  ['FEM75068', 'A', 'C7F338', 'A', 'n', 'na', 1202032818, 'upstream_output_port', 'n'];  ['FEM75068', 'A', 'C7F338', 'A', 'n', 'na', 1202032818, 'downstream_input_port', 'na'];  ['FEM75068', 'A', 'C7F338', 'A', 'n', 'na', 1202032818, 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:14:00.489457  part_connect connection update-------------------
+
+--data
+	    C7F338:RI2A5E:eb:a  ['C7F338', 'A', 'RI2A5E', 'A', 'eb', 'a', 1202032818, 'upstream_part', 'C7F338'];  ['C7F338', 'A', 'RI2A5E', 'A', 'eb', 'a', 1202032818, 'up_part_rev', 'A'];  ['C7F338', 'A', 'RI2A5E', 'A', 'eb', 'a', 1202032818, 'downstream_part', 'RI2A5E'];  ['C7F338', 'A', 'RI2A5E', 'A', 'eb', 'a', 1202032818, 'down_part_rev', 'A'];  ['C7F338', 'A', 'RI2A5E', 'A', 'eb', 'a', 1202032818, 'upstream_output_port', 'eb'];  ['C7F338', 'A', 'RI2A5E', 'A', 'eb', 'a', 1202032818, 'downstream_input_port', 'a'];  ['C7F338', 'A', 'RI2A5E', 'A', 'eb', 'a', 1202032818, 'start_gpstime', 1202032818];  
+
+-------------------2018-02-10 01:14:02.274546  part_connect connection update-------------------
+
+--data
+	    C7F338:RI2A5N:nb:a  ['C7F338', 'A', 'RI2A5N', 'A', 'nb', 'a', 1202032818, 'upstream_part', 'C7F338'];  ['C7F338', 'A', 'RI2A5N', 'A', 'nb', 'a', 1202032818, 'up_part_rev', 'A'];  ['C7F338', 'A', 'RI2A5N', 'A', 'nb', 'a', 1202032818, 'downstream_part', 'RI2A5N'];  ['C7F338', 'A', 'RI2A5N', 'A', 'nb', 'a', 1202032818, 'down_part_rev', 'A'];  ['C7F338', 'A', 'RI2A5N', 'A', 'nb', 'a', 1202032818, 'upstream_output_port', 'nb'];  ['C7F338', 'A', 'RI2A5N', 'A', 'nb', 'a', 1202032818, 'downstream_input_port', 'a'];  ['C7F338', 'A', 'RI2A5N', 'A', 'nb', 'a', 1202032818, 'start_gpstime', 1202032818];  
+
