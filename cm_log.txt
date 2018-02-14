@@ -12743,3 +12743,113 @@
 --other
 	log_dict:  {'hu-list': 'HH,HA,HB', 'cache_file_info': "Cache file:  /home/obs/.hera_mc/hookup_cache.npy\nCached_at_date:  2018-02-13 15:18:03\nCache file_mod_time:  2018-02-13 15:18:20\nCached hookup list:  ['HH', 'HA', 'HB']\nCached hookup has 79 keys.\nCM Version latest cm_hash_time:  2018-02-12 22:03:08\n", 'log_msg': 'force_new:  False;  cache_file_date_OK:  False'}
 
+-------------------2018-02-13 23:24:01.850180  __hookup_cache_file_OK:  timing incorrect.-------------------
+
+--other
+	log_dict:  {'__A': True, '__C': False, '__B': False, 'cached_at_date': '2018-02-13 15:18:03', 'cm_hash_time': '2018-02-12 22:03:08', 'at_date': '2018-02-12 20:49:15'}
+
+-------------------2018-02-13 23:24:24.810994  update_cache-------------------
+
+--other
+	log_dict:  {'hu-list': 'HH,HA,HB', 'cache_file_info': "Cache file:  /home/obs/.hera_mc/hookup_cache.npy\nCached_at_date:  2018-02-12 20:49:15\nCache file_mod_time:  2018-02-13 23:24:24\nCached hookup list:  ['HH', 'HA', 'HB']\nCached hookup has 79 keys.\nCM Version latest cm_hash_time:  2018-02-12 22:03:08\n", 'log_msg': 'force_new:  False;  cache_file_date_OK:  False'}
+
+-------------------2018-02-13 23:57:15.445433  __hookup_cache_file_OK:  timing incorrect.-------------------
+
+--other
+	log_dict:  {'__A': False, '__C': False, '__B': False, 'cached_at_date': '2018-02-12 20:49:15', 'cm_hash_time': '2018-02-12 22:03:08', 'at_date': '2018-02-12 20:17:03'}
+
+-------------------2018-02-13 23:57:38.797003  update_cache-------------------
+
+--other
+	log_dict:  {'hu-list': 'HH,HA,HB', 'cache_file_info': "Cache file:  /home/obs/.hera_mc/hookup_cache.npy\nCached_at_date:  2018-02-12 20:17:03\nCache file_mod_time:  2018-02-13 23:57:38\nCached hookup list:  ['HH', 'HA', 'HB']\nCached hookup has 79 keys.\nCM Version latest cm_hash_time:  2018-02-12 22:03:08\n", 'log_msg': 'force_new:  False;  cache_file_date_OK:  False'}
+
+-------------------2018-02-14 00:04:50.202064  __hookup_cache_file_OK:  timing incorrect.-------------------
+
+--other
+	log_dict:  {'__A': False, '__C': False, '__B': False, 'cached_at_date': '2018-02-12 20:17:03', 'cm_hash_time': '2018-02-12 22:03:08', 'at_date': '2018-02-12 20:38:31'}
+
+-------------------2018-02-14 00:05:12.679632  update_cache-------------------
+
+--other
+	log_dict:  {'hu-list': 'HH,HA,HB', 'cache_file_info': "Cache file:  /home/obs/.hera_mc/hookup_cache.npy\nCached_at_date:  2018-02-12 20:38:31\nCache file_mod_time:  2018-02-14 00:05:12\nCached hookup list:  ['HH', 'HA', 'HB']\nCached hookup has 79 keys.\nCM Version latest cm_hash_time:  2018-02-12 22:03:08\n", 'log_msg': 'force_new:  False;  cache_file_date_OK:  False'}
+
+-------------------2018-02-14 00:21:19.480084  __hookup_cache_file_OK:  timing incorrect.-------------------
+
+--other
+	log_dict:  {'__A': False, '__C': False, '__B': False, 'cached_at_date': '2018-02-12 20:38:31', 'cm_hash_time': '2018-02-12 22:03:08', 'at_date': '2018-02-12 19:55:34'}
+
+-------------------2018-02-14 00:21:44.133318  update_cache-------------------
+
+--other
+	log_dict:  {'hu-list': 'HH,HA,HB', 'cache_file_info': "Cache file:  /home/obs/.hera_mc/hookup_cache.npy\nCached_at_date:  2018-02-12 19:55:34\nCache file_mod_time:  2018-02-14 00:21:43\nCached hookup list:  ['HH', 'HA', 'HB']\nCached hookup has 79 keys.\nCM Version latest cm_hash_time:  2018-02-12 22:03:08\n", 'log_msg': 'force_new:  False;  cache_file_date_OK:  False'}
+
+-------------------2018-02-14 00:23:51.576730  __hookup_cache_file_OK:  timing incorrect.-------------------
+
+--other
+	log_dict:  {'__A': False, '__C': False, '__B': False, 'cached_at_date': '2018-02-12 19:55:34', 'cm_hash_time': '2018-02-12 22:03:08', 'at_date': '2018-02-12 19:34:06'}
+
+-------------------2018-02-14 00:24:16.016809  update_cache-------------------
+
+--other
+	log_dict:  {'hu-list': 'HH,HA,HB', 'cache_file_info': "Cache file:  /home/obs/.hera_mc/hookup_cache.npy\nCached_at_date:  2018-02-12 19:34:06\nCache file_mod_time:  2018-02-14 00:24:15\nCached hookup list:  ['HH', 'HA', 'HB']\nCached hookup has 79 keys.\nCM Version latest cm_hash_time:  2018-02-12 22:03:08\n", 'log_msg': 'force_new:  False;  cache_file_date_OK:  False'}
+
+-------------------2018-02-14 00:42:51.440307  __hookup_cache_file_OK:  timing incorrect.-------------------
+
+--other
+	log_dict:  {'__A': False, '__C': False, '__B': False, 'cached_at_date': '2018-02-12 19:34:06', 'cm_hash_time': '2018-02-12 22:03:08', 'at_date': '2018-02-12 19:12:37'}
+
+-------------------2018-02-14 00:43:16.357153  update_cache-------------------
+
+--other
+	log_dict:  {'hu-list': 'HH,HA,HB', 'cache_file_info': "Cache file:  /home/obs/.hera_mc/hookup_cache.npy\nCached_at_date:  2018-02-12 19:12:37\nCache file_mod_time:  2018-02-14 00:43:15\nCached hookup list:  ['HH', 'HA', 'HB']\nCached hookup has 79 keys.\nCM Version latest cm_hash_time:  2018-02-12 22:03:08\n", 'log_msg': 'force_new:  False;  cache_file_date_OK:  False'}
+
+-------------------2018-02-14 00:45:30.424940  __hookup_cache_file_OK:  timing incorrect.-------------------
+
+--other
+	log_dict:  {'__A': False, '__C': False, '__B': False, 'cached_at_date': '2018-02-12 19:12:37', 'cm_hash_time': '2018-02-12 22:03:08', 'at_date': '2018-02-12 19:44:50'}
+
+-------------------2018-02-14 00:45:51.218685  update_cache-------------------
+
+--other
+	log_dict:  {'hu-list': 'HH,HA,HB', 'cache_file_info': "Cache file:  /home/obs/.hera_mc/hookup_cache.npy\nCached_at_date:  2018-02-12 19:44:50\nCache file_mod_time:  2018-02-14 00:45:50\nCached hookup list:  ['HH', 'HA', 'HB']\nCached hookup has 79 keys.\nCM Version latest cm_hash_time:  2018-02-12 22:03:08\n", 'log_msg': 'force_new:  False;  cache_file_date_OK:  False'}
+
+-------------------2018-02-14 01:27:43.459037  __hookup_cache_file_OK:  timing incorrect.-------------------
+
+--other
+	log_dict:  {'__A': False, '__C': False, '__B': False, 'cached_at_date': '2018-02-12 19:44:50', 'cm_hash_time': '2018-02-12 22:03:08', 'at_date': '2018-02-12 20:06:18'}
+
+-------------------2018-02-14 01:28:05.504093  update_cache-------------------
+
+--other
+	log_dict:  {'hu-list': 'HH,HA,HB', 'cache_file_info': "Cache file:  /home/obs/.hera_mc/hookup_cache.npy\nCached_at_date:  2018-02-12 20:06:18\nCache file_mod_time:  2018-02-14 01:28:05\nCached hookup list:  ['HH', 'HA', 'HB']\nCached hookup has 79 keys.\nCM Version latest cm_hash_time:  2018-02-12 22:03:08\n", 'log_msg': 'force_new:  False;  cache_file_date_OK:  False'}
+
+-------------------2018-02-14 02:06:37.556279  __hookup_cache_file_OK:  timing incorrect.-------------------
+
+--other
+	log_dict:  {'__A': False, '__C': False, '__B': False, 'cached_at_date': '2018-02-12 20:06:18', 'cm_hash_time': '2018-02-12 22:03:08', 'at_date': '2018-02-12 19:23:21'}
+
+-------------------2018-02-14 02:06:57.725182  update_cache-------------------
+
+--other
+	log_dict:  {'hu-list': 'HH,HA,HB', 'cache_file_info': "Cache file:  /home/obs/.hera_mc/hookup_cache.npy\nCached_at_date:  2018-02-12 19:23:21\nCache file_mod_time:  2018-02-14 02:06:57\nCached hookup list:  ['HH', 'HA', 'HB']\nCached hookup has 79 keys.\nCM Version latest cm_hash_time:  2018-02-12 22:03:08\n", 'log_msg': 'force_new:  False;  cache_file_date_OK:  False'}
+
+-------------------2018-02-14 02:22:51.087614  __hookup_cache_file_OK:  timing incorrect.-------------------
+
+--other
+	log_dict:  {'__A': False, '__C': False, '__B': False, 'cached_at_date': '2018-02-12 19:23:21', 'cm_hash_time': '2018-02-12 22:03:08', 'at_date': '2018-02-12 18:51:09'}
+
+-------------------2018-02-14 02:23:15.157095  update_cache-------------------
+
+--other
+	log_dict:  {'hu-list': 'HH,HA,HB', 'cache_file_info': "Cache file:  /home/obs/.hera_mc/hookup_cache.npy\nCached_at_date:  2018-02-12 18:51:09\nCache file_mod_time:  2018-02-14 02:23:14\nCached hookup list:  ['HH', 'HA', 'HB']\nCached hookup has 79 keys.\nCM Version latest cm_hash_time:  2018-02-12 22:03:08\n", 'log_msg': 'force_new:  False;  cache_file_date_OK:  False'}
+
+-------------------2018-02-14 02:47:58.754904  __hookup_cache_file_OK:  timing incorrect.-------------------
+
+--other
+	log_dict:  {'__A': False, '__C': False, '__B': False, 'cached_at_date': '2018-02-12 18:51:09', 'cm_hash_time': '2018-02-12 22:03:08', 'at_date': '2018-02-12 18:08:12'}
+
+-------------------2018-02-14 02:48:19.378438  update_cache-------------------
+
+--other
+	log_dict:  {'hu-list': 'HH,HA,HB', 'cache_file_info': "Cache file:  /home/obs/.hera_mc/hookup_cache.npy\nCached_at_date:  2018-02-12 18:08:12\nCache file_mod_time:  2018-02-14 02:48:18\nCached hookup list:  ['HH', 'HA', 'HB']\nCached hookup has 79 keys.\nCM Version latest cm_hash_time:  2018-02-12 22:03:08\n", 'log_msg': 'force_new:  False;  cache_file_date_OK:  False'}
+
